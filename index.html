@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>香港日常優惠｜公開版</title>
+<style>
+  * { box-sizing: border-box; }
+  body { margin:0; font-family: -apple-system, "PingFang HK", "Microsoft JhengHei", sans-serif; background:#f6f7f9; color:#1a1a1a; }
+  header { background:#0b6e4f; color:#fff; padding:20px 16px 14px; }
+  header h1 { margin:0 0 4px; font-size:24px; }
+  header p { margin:0; opacity:.9; font-size:14px; }
+  .stats { display:flex; gap:10px; flex-wrap:wrap; margin-top:12px; }
+  .stat { background:rgba(255,255,255,.14); border-radius:10px; padding:8px 12px; font-size:13px; }
+  .stat b { display:block; font-size:18px; }
+  main { max-width:860px; margin:0 auto; padding:14px 12px 40px; }
+  .filters { display:flex; gap:8px; flex-wrap:wrap; margin:6px 0 10px; }
+  .filters button { border:1px solid #cfd4da; background:#fff; border-radius:999px; padding:6px 14px; font-size:14px; cursor:pointer; }
+  .filters button.active { background:#0b6e4f; color:#fff; border-color:#0b6e4f; }
+  #search { width:100%; padding:10px 12px; border:1px solid #cfd4da; border-radius:10px; font-size:15px; margin-bottom:12px; }
+  .card { background:#fff; border:1px solid #e3e6ea; border-radius:12px; padding:14px; margin-bottom:10px; }
+  .card .store { font-size:13px; color:#0b6e4f; font-weight:600; }
+  .card h2 { margin:4px 0 6px; font-size:17px; line-height:1.35; }
+  .card .price { font-size:19px; font-weight:700; color:#c0392b; }
+  .tag { display:inline-block; background:#eef1f4; border-radius:6px; padding:2px 8px; font-size:12px; margin-left:6px; vertical-align:middle; }
+  .ad { background:#f39c12; color:#fff; font-weight:700; }
+  .meta { font-size:13px; color:#555; margin-top:6px; line-height:1.5; }
+  details { margin-top:8px; }
+  details summary { cursor:pointer; font-size:13px; color:#0b6e4f; }
+  details .post { white-space:pre-wrap; font-size:13px; background:#f6f7f9; border-radius:8px; padding:10px; margin-top:6px; line-height:1.6; }
+  a.plink { font-size:13px; color:#0b6e4f; }
+  .err { background:#fff; border:1px solid #e3e6ea; border-radius:12px; padding:20px; text-align:center; }
+  .err button { background:#c0392b; color:#fff; border:0; border-radius:8px; padding:10px 22px; font-size:15px; cursor:pointer; }
+  footer { text-align:center; color:#888; font-size:12px; padding:0 16px 28px; line-height:1.6; }
+</style>
+</head>
+<body>
+<header>
+  <h1>香港日常優惠</h1>
+  <p>超市、食肆、零售同網購嘅最新著數，一版睇晒。價錢以商戶公佈為準。</p>
+  <div class="stats" id="stats" hidden>
+    <div class="stat"><b id="st-total">-</b>條優惠</div>
+    <div class="stat"><b id="st-disc">-</b>最高折扣</div>
+    <div class="stat"><b id="st-new">-</b>今日新增</div>
+    <div class="stat"><b id="st-sync">-</b>最後同步（香港時間）</div>
+  </div>
+</header>
+<main>
+  <div id="loading">載入緊最新優惠…</div>
+  <div id="error" class="err" hidden>
+    <h2>暫時讀唔到優惠資料</h2>
+    <p>可能係網絡問題。唔會顯示舊資料，請㩒下面再試一次。</p>
+    <button onclick="load()">重新載入</button>
+  </div>
+  <div id="board" hidden>
+    <div class="filters" id="filters"></div>
+    <input id="search" type="search" placeholder="搜尋店名、貨品或詳情…">
+    <div id="list"></div>
+    <p id="empty" hidden>冇符合嘅優惠。</p>
+  </div>
+</main>
+<footer>資料約每 2 小時自動同步一次；優惠數量有限，價錢同供應以商戶為準。<br>公開只讀版，訪客不能編輯。</footer>
+<script>
+var DATA = null, cat = '全部';
+function hkt(iso){ if(!iso) return ''; var d = new Date(iso); if(isNaN(d)) return iso; return d.toLocaleString('zh-HK',{timeZone:'Asia/Hong_Kong',hour12:false}); }
+function esc(s){ return String(s==null?'':s).replace(/[&<>"']/g, function(c){ return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]; }); }
+function render(){
+  var list = document.getElementById('list'); list.innerHTML='';
+  var q = document.getElementById('search').value.trim();
+  var deals = (DATA.deals||[]).filter(function(d){
+    if(cat!=='全部' && d.category!==cat) return false;
+    if(q && (String(d.store||'')+String(d.item||'')+String(d.detail||'')).indexOf(q)<0) return false;
+    return true;
+  });
+  document.getElementById('empty').hidden = deals.length>0;
+  deals.forEach(function(d){
+    var el = document.createElement('div'); el.className='card';
+    var h = '<div class="store">'+esc(d.store)+'<span class="tag">'+esc(d.category)+'</span>'+(d.is_ad?'<span class="tag ad">廣告</span>':'')+'</div>';
+    h += '<h2>'+esc(d.item)+'</h2>';
+    h += '<div class="price">'+esc(d.price_text)+'</div>';
+    if(d.detail) h += '<div class="meta">'+esc(d.detail)+'</div>';
+    h += '<div class="meta">來源：'+esc(d.source_name)+'｜帖日期：'+esc(hkt(d.posted_at))+(d.ends_at?'｜優惠到期：'+esc(d.ends_at):'')+'</div>';
+    if(d.post_url) h += '<div class="meta"><a class="plink" href="'+esc(d.post_url)+'" target="_blank" rel="noopener">原帖</a></div>';
+    if(d.post_text) h += '<details><summary>睇原帖內容</summary><div class="post">'+esc(d.post_text)+'</div></details>';
+    el.innerHTML = h; list.appendChild(el);
+  });
+}
+function renderFilters(){
+  var cats = ['全部','超市','食肆','零售','網購','其他'];
+  var box = document.getElementById('filters'); box.innerHTML='';
+  cats.forEach(function(c){
+    var n = c==='全部' ? (DATA.deals||[]).length : ((DATA.categoryCounts||{})[c]||0);
+    var b = document.createElement('button'); b.textContent = c+' ('+n+')';
+    if(c===cat) b.className='active';
+    b.onclick = function(){ cat=c; renderFilters(); render(); };
+    box.appendChild(b);
+  });
+}
+function load(){
+  document.getElementById('loading').hidden = false;
+  document.getElementById('error').hidden = true;
+  document.getElementById('board').hidden = true;
+  fetch('deals.json?t='+Date.now(), {cache:'no-store'}).then(function(r){
+    if(!r.ok) throw new Error('http '+r.status);
+    return r.json();
+  }).then(function(d){
+    DATA = d;
+    document.getElementById('st-total').textContent = d.totalLive;
+    document.getElementById('st-disc').textContent = d.bestDiscountPct ? d.bestDiscountPct+'%' : '-';
+    document.getElementById('st-new').textContent = d.todayNew;
+    document.getElementById('st-sync').textContent = hkt(d.syncedAt || d.lastUpdatedAt);
+    document.getElementById('stats').hidden = false;
+    document.getElementById('loading').hidden = true;
+    document.getElementById('board').hidden = false;
+    renderFilters(); render();
+  }).catch(function(){
+    document.getElementById('loading').hidden = true;
+    document.getElementById('error').hidden = false;
+  });
+}
+document.getElementById('search').addEventListener('input', render);
+load();
+</script>
+</body>
+</html>
