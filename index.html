@@ -72,6 +72,8 @@ function render(){
     if(q && (String(d.store||'')+String(d.item||'')+String(d.detail||'')).indexOf(q)<0) return false;
     return true;
   });
+  // 廣告沉底：非廣告排先，廣告排最後，兩組內部維持原本新到舊次序
+  deals.sort(function(a,b){ return (a.is_ad?1:0)-(b.is_ad?1:0); });
   document.getElementById('empty').hidden = deals.length>0;
   deals.forEach(function(d){
     var el = document.createElement('div'); el.className='card';
