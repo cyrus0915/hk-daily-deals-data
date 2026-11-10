@@ -1,8 +1,9 @@
-# Hong Kong Daily Deals — Public Read-Only Data
+# 香港日常優惠｜公開數據
 
-This repository holds public read-only data synced from the private Hong Kong daily deals board （香港日常優惠）.
+公開只讀版（訪客睇到嘅頁面）：https://cyrus0915.github.io/hk-daily-deals-data/
 
-- `deals.json` contains the current live deals: store, item, price, category, details, source, original post text, and expiry where available, plus headline stats (`totalLive`, `categoryCounts`, `bestDiscountPct`, `todayNew`, `sourceTotal`, `lastUpdatedAt`, `syncedAt`).
-- The public deals page reads `deals.json` from this repository at load time, so visitors always see the latest synced data without the page itself needing to be rebuilt or re-published.
-- Visitors can read this data but not edit it. Only the board owner can update this repository; there is no public editing, submission, or write access.
-- Updated about every 2 hours, following the private board's refresh cycle.
+呢個 repo 同時係公開版頁面同數據檔嘅存放處：
+- `index.html` — 公開版頁面，開頁即讀同站嘅 `deals.json`
+- `deals.json` — 最新優惠數據，由私人空間「香港日常優惠」每 2 小時自動同步過嚟
+
+訪客只讀，冇編輯權限。數據檔直接讀取：https://cyrus0915.github.io/hk-daily-deals-data/deals.json
