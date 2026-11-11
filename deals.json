@@ -1,17 +1,17 @@
 {
- "totalLive": 88,
+ "totalLive": 89,
  "categoryCounts": {
   "其他": 9,
   "網購": 7,
   "超市": 42,
   "零售": 18,
-  "食肆": 12
+  "食肆": 13
  },
  "bestDiscountPct": 90,
- "todayNew": 3,
+ "todayNew": 1,
  "sourceTotal": 15,
- "lastUpdatedAt": "2026-11-11T17:10:27.177Z",
- "syncedAt": "2026-11-12T02:59:00+08:00",
+ "lastUpdatedAt": "2026-11-11T19:09:05.857Z",
+ "syncedAt": "2026-11-12T04:58:30+08:00",
  "deals": [
   {
    "category": "食肆",
@@ -19,7 +19,7 @@
    "ends_at": "2026-11-14",
    "id": 287,
    "is_ad": false,
-   "is_new": true,
+   "is_new": false,
    "item": "枝竹羊腩煲（1磅）／紅燒原隻豬手外賣自取半價",
    "post_text": "【全港優惠速遞｜一粥麵 外賣半價】\n\n今日至11月14日，每日下午4時至6時，一粥麵外賣自取半價。\n枝竹羊腩煲（1磅）而家 $99（原價 $198），仲送唐生菜。\n紅燒原隻豬手 $39（原價 $58）。\n\n只限呢兩個鐘外賣自取。羊腩煲每人限 1 份，豬手每人限 2 份。\n唔適用自助點餐機、手機點餐同網上外賣平台，亦唔適用機場分店。不可與其他優惠同時使用。數量有限，售完即止。\n\n你會揀羊腩煲，定豬手？\n\n詳情：https://www.facebook.com/SuperSuper.CongeeAndNoodle/posts/pfbid0AoYTpVrUbukEktZCyWfKkqGn3EddCogXY7c324aSpMB5RD4XWRvemu19UUd5XPScl\n詳情以官方為準；優惠或隨時完。\n\n#全港優惠速遞 #一粥麵 #SuperSuper #外賣 #香港著數",
    "post_url": null,
@@ -35,7 +35,7 @@
    "ends_at": null,
    "id": 288,
    "is_ad": true,
-   "is_new": true,
+   "is_new": false,
    "item": "魚油、維他命C、益生菌、膠原蛋白",
    "post_text": "📣雙11 IHERB🌿折上折，最高6️⃣6️⃣折❗️\n\n🚨 ShopBack 8%回贈 + 雙 Code 疊加\n\n74折：先輸入{ WIN6639 } ⁠+ ⁠再輸入{ D11MEGA }\n75折：WIN6639 ⁠+ HSIEN25 \n75 折：⁠WIN6639 ⁠+ CRYSTAL25\n75 折：⁠WIN6639 ⁠+ ⁠HKWELL25\n\n🆕 新用戶專享\n 7 折：⁠WIN6639⁠ + ⁠WELCOME7⁠ \n\n🛒 補貨必睇：魚油、維他命 C、益生菌、膠原蛋白\n\n#iherb優惠碼⁠ ⁠#iherb必買⁠ ⁠#甘氨酸鎂⁠ ⁠#失眠⁠ ⁠#好物分享⁠",
    "post_url": null,
@@ -99,7 +99,7 @@
    "ends_at": null,
    "id": 289,
    "is_ad": false,
-   "is_new": true,
+   "is_new": false,
    "item": "asics鞋＋配件／Tee",
    "post_text": "💰馬拉松實用TIPS💰\n最近係馬拉松個雙十一優惠， 總係差一百幾十先食到個\n滿900減50！滿1200減100！\n\n而家買2對asics鞋，加1-2個配件/ Tee 夾單就直接減$100\n\n呢幾樣都係實用得黎又平，好岩大家用黎夾單用",
    "post_url": null,
@@ -156,6 +156,22 @@
    "source_key": "530057784902147",
    "source_name": "香港Buffet自助餐/放題優惠關注組",
    "store": "W Hotel - Kitchen"
+  },
+  {
+   "category": "食肆",
+   "detail": "KKday優惠；食物包括長腳蟹、魚子醬、酸菜魚、辣子雞",
+   "ends_at": null,
+   "id": 295,
+   "is_ad": false,
+   "is_new": true,
+   "item": "自助餐（午餐／晚餐）",
+   "post_text": "W Hotel - Kitchen\n\n地址: 九龍柯士甸道西1號港鐵九龍站香港W酒店6樓\n\nkkday做緊買一送一buffet優惠, lunch同dinner都有, 食物種類唔算多但足夠, 而且款式特別, 好似有魚子醬, 熟食有酸菜魚同辣子雞, 生果有熱情果等等 🤭 服務好好, 環境舒服, 味道幾好, 最鍾意食長腳蟹, 甜品同雪糕 🫶🏻 半價好抵食!!\n\n#whotelhongkong #九龍美食 #自助餐優惠 #買一送一",
+   "post_url": "https://facebook.com/groups/hkbuffet/permalink/1833859997855246/",
+   "posted_at": "2026-11-11T08:09:44.000Z",
+   "price_text": "買一送一（半價）",
+   "source_key": "530057784902147",
+   "source_name": "香港Buffet自助餐/放題優惠關注組",
+   "store": "W Hotel - Kitchen（香港W酒店）"
   },
   {
    "category": "超市",
