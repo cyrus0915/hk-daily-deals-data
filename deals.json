@@ -8,10 +8,10 @@
   "食肆": 13
  },
  "bestDiscountPct": 90,
- "todayNew": 1,
+ "todayNew": 0,
  "sourceTotal": 15,
- "lastUpdatedAt": "2026-11-11T19:09:05.857Z",
- "syncedAt": "2026-11-12T04:58:30+08:00",
+ "lastUpdatedAt": "2026-11-11T21:07:49.592Z",
+ "syncedAt": "2026-11-12T06:58:50+08:00",
  "deals": [
   {
    "category": "食肆",
@@ -163,7 +163,7 @@
    "ends_at": null,
    "id": 295,
    "is_ad": false,
-   "is_new": true,
+   "is_new": false,
    "item": "自助餐（午餐／晚餐）",
    "post_text": "W Hotel - Kitchen\n\n地址: 九龍柯士甸道西1號港鐵九龍站香港W酒店6樓\n\nkkday做緊買一送一buffet優惠, lunch同dinner都有, 食物種類唔算多但足夠, 而且款式特別, 好似有魚子醬, 熟食有酸菜魚同辣子雞, 生果有熱情果等等 🤭 服務好好, 環境舒服, 味道幾好, 最鍾意食長腳蟹, 甜品同雪糕 🫶🏻 半價好抵食!!\n\n#whotelhongkong #九龍美食 #自助餐優惠 #買一送一",
    "post_url": "https://facebook.com/groups/hkbuffet/permalink/1833859997855246/",
