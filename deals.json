@@ -1,17 +1,16 @@
 {
-  "totalLive": 122,
+  "totalLive": 124,
   "categoryCounts": {
     "其他": 15,
     "網購": 8,
     "超市": 54,
-    "零售": 26,
-    "食肆": 19
+    "零售": 27,
+    "食肆": 20
   },
   "bestDiscountPct": 90,
-  "todayNew": 5,
+  "todayNew": 2,
   "sourceTotal": 15,
-  "lastUpdatedAt": "2026-11-12T11:05:09.187Z",
-  "syncedAt": "2026-11-12T20:59:07+08:00",
+  "lastUpdatedAt": "2026-11-12T13:09:49.333Z",
   "deals": [
     {
       "category": "食肆",
@@ -19,7 +18,7 @@
       "ends_at": null,
       "id": 374,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "聖誕自助餐",
       "post_text": "出名用料大方嘅嘉里酒店自助餐\n聖誕自助餐 75折😳🫵🏻\n\n平日都有松葉蟹食好誇張\n長崎赤身、紅蝦、鹿兒島油甘魚，每日精選日本直送真鯛、鰹魚或秋刀魚壽司等\n\n聖誕有頂級魚子醬專區咩事🥰\n大家睇定聖誕食咩未呀？\n仲可以再減呀11月訂",
       "post_url": null,
@@ -35,7 +34,7 @@
       "ends_at": "2026-11-19",
       "id": 372,
       "is_ad": true,
-      "is_new": true,
+      "is_new": false,
       "item": "Monfri啤酒酵母全效防脫髮洗髮露1059ml",
       "post_text": "김영대 Kim Young-dae (Korean actor)誠意代理推薦!\n仲繼續來2支大優惠!\n功能性沐浴露:\n功能性微酸性沐浴露.緩解背部痤瘡和粉刺等皮膚問題!\nMonfri 香薰深層香氛沐浴露 (杏仁奶)1059ml\n這款新產品有大優惠~$142/2支!\n護理防脫護髮素:\n含有德國啤酒酵母和蛋白質成分的大容量護髮產品，\n為受損髮質提供營養和柔軟!\nMonfri 啤酒酵母全效防脫髮洗髮露 (紫色海洋) 1059ml\nMonfri 啤酒酵母全效防脫髮洗髮露 (法國薰衣草)1059ml \n原價:$263/2支\n特價:$145/2支\n優惠期:2026年11月13~19日\n*海報上MONFRI指定護髮素產品--,可交叉選擇購買!\n可能是全城最抵~\n優惠有限,售完即止!\n如有任何爭議，韓印紅保留最終決定權。\n韓國食品 韓印紅\n各分店為您服務\n*太古分店價格有別*\n活動優惠受條件及細則約束\n網上,實體店同時優惠發放~\n\n#hyhbeauty #hangyinhong #韓印紅 #김영대 #KimYoungdae #防脫髮 #沐浴露 #優惠",
       "post_url": null,
@@ -46,12 +45,28 @@
       "store": "韓印紅"
     },
     {
+      "category": "食肆",
+      "detail": "85折早鳥及學生8折限12/11-20/12期間預訂；Yuu 10倍積分",
+      "ends_at": "2026-12-20",
+      "id": 384,
+      "is_ad": false,
+      "is_new": true,
+      "item": "派對套餐（Pizza、炸雞、沙律、意粉及小食）",
+      "post_text": "年年聖誕＋新年搞Party 搞到頭爆嘅人睇過嚟🎄\r\n派對套餐除返開人均$57起，有齊Pizza、炸雞、沙律、意粉同小食!\n\n今年PHD外賣推出3個限時優惠，幫你慳到盡：\r\n85折早鳥:12/11-20/12 期間預訂就有85折優惠\r\n學生8折: 12/11- 20/12期間 學生門市預訂即可享8折\r\nYuu 10倍積分: 12/11-11/1 期間預訂再送10倍積分\n\n最後取貨/送貨期去到 2027 年 1 月 13 日，各位搞手趁有優惠預早預訂啦！\r\n嚟緊開Party唔洗再煩訂咩好😂",
+      "post_url": null,
+      "posted_at": "2026-11-12T10:22:17.000Z",
+      "price_text": "人均$57起，85折早鳥／學生8折",
+      "source_key": "threads-search",
+      "source_name": "Threads @jetso.meow",
+      "store": "PHD"
+    },
+    {
       "category": "零售",
       "detail": "同帖：L'OCCITANE $148、MARVIS $106/2、CeraVe $129；foodpanda訂百佳碼PNS11滿$350享89折至11/15",
       "ends_at": "2026-11-16",
       "id": 373,
       "is_ad": true,
-      "is_new": true,
+      "is_new": false,
       "item": "PLU沐浴露",
       "post_text": "莎莎一口價至11/16。\n\n莎莎 SUPER SALE 一口價至11/16：PLU 沐浴露 $49、L'OCCITANE $148、MARVIS $106/2、CeraVe $129。foodpanda 訂百佳，碼 PNS11 滿$350享89折，上限$55，至11/15。11/18 恒生 enJoy 卡喺 7-Eleven 門市95折。美心薈 $70換總值$100電子現金券，至11/30。iHerb D11MEGA 全場74折，至11/13 00:00。\n\nD11MEGA｜可選用 BCW3191｜一單一碼｜或獲佣金｜以結帳為準\n\n詳細睇 bio。",
       "post_url": null,
@@ -179,7 +194,7 @@
       "ends_at": null,
       "id": 368,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "朱古力",
       "post_text": "咁啱經過屯門碼頭大生，見到大家成隻朱古力都有做特價，不過就買$12.1罐。\n\n你又會唔會買？￼￼",
       "post_url": "https://facebook.com/groups/369987237960476/permalink/1454248012867721/",
@@ -291,7 +306,7 @@
       "ends_at": null,
       "id": 369,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "麵",
       "post_text": "＃淘大花園 ＃四洲零食\n今日11月12號，$1神經價係$1一小包，即係$5一pack麵，三種味道，剛買時見牛味已經見底！",
       "post_url": "https://facebook.com/groups/369987237960476/permalink/1454151959543993/",
@@ -508,6 +523,22 @@
       "source_key": "858805887489012",
       "source_name": "香港人 開倉清貨優惠區",
       "store": "養之髮"
+    },
+    {
+      "category": "零售",
+      "detail": null,
+      "ends_at": null,
+      "id": 383,
+      "is_ad": false,
+      "is_new": true,
+      "item": "MUZIGAE MANSION 唇釉迷你版＋Pc贈品",
+      "post_text": "$56就買到Olive Young先有嘅\nMUZIGAE MANSION 唇釉迷你版同Pc贈品\n睇留言睇片睇更多！",
+      "post_url": null,
+      "posted_at": "2026-11-11T17:15:34.000Z",
+      "price_text": "$56",
+      "source_key": "threads-search",
+      "source_name": "Threads @fongar.media",
+      "store": "Olive Young"
     },
     {
       "category": "食肆",
@@ -1965,5 +1996,6 @@
       "source_name": "Threads @comparetiger",
       "store": "淘寶"
     }
-  ]
+  ],
+  "syncedAt": "2026-11-12T22:59:48+08:00"
 }
