@@ -1,17 +1,17 @@
 {
-  "totalLive": 122,
+  "totalLive": 123,
   "categoryCounts": {
     "其他": 15,
     "網購": 8,
-    "超市": 54,
+    "超市": 55,
     "零售": 26,
     "食肆": 19
   },
   "bestDiscountPct": 90,
-  "todayNew": 0,
+  "todayNew": 1,
   "sourceTotal": 15,
-  "lastUpdatedAt": "2026-11-12T19:07:54.612Z",
-  "syncedAt": "2026-11-13T04:59:20.196+08:00",
+  "lastUpdatedAt": "2026-11-12T21:07:55.019Z",
+  "syncedAt": "2026-11-13T06:58:53.120+08:00",
   "deals": [
     {
       "category": "食肆",
@@ -44,6 +44,22 @@
       "source_key": "supermarketoffer",
       "source_name": "超市優惠關注組",
       "store": "友誠"
+    },
+    {
+      "category": "超市",
+      "detail": "包劏",
+      "ends_at": null,
+      "id": 413,
+      "is_ad": false,
+      "is_new": true,
+      "item": "泥鯭BB",
+      "post_text": "在up water街市:\n見到那麼大份:\n\n泥鯭BB都是三十大洋\n\n仲包劏埋\n\n諗住返home椒鹽\n\n回家發覺內裹個肚非常雪白\n\n及新鮮\n\n天氣乾燥之下!\n\n立刻用老年陳皮C蒸\n\n蒸5分鐘\n\n肉質非常鮮滑\n\n正到茅朋友\n\n感恩!買到咁正BB\n\n剛睡覺泥鯭🤠",
+      "post_url": "https://facebook.com/groups/550139798981605/permalink/2057744291554474/",
+      "posted_at": "2026-11-12T11:59:03.000Z",
+      "price_text": "$30",
+      "source_key": "550139798981605",
+      "source_name": "香港街市魚類海鮮研究社",
+      "store": "上水街市"
     },
     {
       "category": "零售",
