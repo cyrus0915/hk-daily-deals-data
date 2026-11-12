@@ -8,9 +8,10 @@
     "食肆": 19
   },
   "bestDiscountPct": 90,
-  "todayNew": 3,
+  "todayNew": 0,
   "sourceTotal": 15,
-  "lastUpdatedAt": "2026-11-12T15:11:04.210Z",
+  "lastUpdatedAt": "2026-11-12T17:06:52.146Z",
+  "syncedAt": "2026-11-13T02:59:16.220+08:00",
   "deals": [
     {
       "category": "食肆",
@@ -18,7 +19,7 @@
       "ends_at": null,
       "id": 392,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "3小時無限雞煲放題（重慶麻辣雞煲／御前黃酒雞煲）",
       "post_text": "黃大仙3小時「無限雞煲」放題殺到！抵到爆 🔥🍗\n🔥 11月13日（五）18:00 開搶，手快手慢自己知\n星期一至四 $111/位；週五至日及公眾假期 $138/位；小童（1.3米或以下）$88/位\n原價 $258/位，3小時任加重慶麻辣雞煲同御前黃酒雞煲\n每位加 $18 任飲汽水，5位以上成枱仲送埋飲品 🥤\n最少2位起買，約埋朋友屋企人打邊爐啱晒\n📍黃大仙鳳祥樓1樓 富城火鍋海鮮酒家\n自助餐優惠 #抵食 #黃大仙 #富城火鍋 #放題控",
       "post_url": "https://www.threads.com/@hkplayandtravel/post/DfpU_nKDpTC",
@@ -34,7 +35,7 @@
       "ends_at": null,
       "id": 385,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "Kabaya西瓜刨冰軟糖",
       "post_text": "Kabaya西瓜刨冰軟糖$12/3包😱 呢隻好香果味唔藥水，鍾意食有糖粒coating軟糖強烈推薦😇 #友誠",
       "post_url": "https://facebook.com/groups/supermarketoffer/permalink/1673748230871688/",
@@ -50,7 +51,7 @@
       "ends_at": null,
       "id": 393,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "鏡框連防藍光鏡片",
       "post_text": "￼喺threads度見到有人推薦，因為唔見咗副眼鏡，￼今日即刻WhatsApp老闆問有冇時間，多謝老闆咁幫手，￼今日俾我攝一個兩點嘅時間即刻幫我搞，￼鏡框連防藍光￼鏡片都係收我總額$308。￼真係抵到爆。之前嗰副成千蚊㗎。\n￼老闆有好人又專業，￼希望多啲人幫襯佢\n#new optic warehouse",
       "post_url": "https://www.threads.com/@dorrrrrr000/post/Dfo-bIsmYhQ",
@@ -1964,6 +1965,5 @@
       "source_name": "Threads @comparetiger",
       "store": "淘寶"
     }
-  ],
-  "syncedAt": "2026-11-13T00:59:05+08:00"
+  ]
 }
