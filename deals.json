@@ -1,17 +1,65 @@
 {
-  "totalLive": 124,
+  "totalLive": 122,
   "categoryCounts": {
     "其他": 15,
     "網購": 8,
     "超市": 54,
-    "零售": 27,
-    "食肆": 20
+    "零售": 26,
+    "食肆": 19
   },
   "bestDiscountPct": 90,
-  "todayNew": 2,
+  "todayNew": 3,
   "sourceTotal": 15,
-  "lastUpdatedAt": "2026-11-12T13:09:49.333Z",
+  "lastUpdatedAt": "2026-11-12T15:11:04.210Z",
   "deals": [
+    {
+      "category": "食肆",
+      "detail": "11月13日18:00開搶；週五至日及公眾假期$138/位，小童$88/位；黃大仙鳳祥樓1樓；最少2位起",
+      "ends_at": null,
+      "id": 392,
+      "is_ad": false,
+      "is_new": true,
+      "item": "3小時無限雞煲放題（重慶麻辣雞煲／御前黃酒雞煲）",
+      "post_text": "黃大仙3小時「無限雞煲」放題殺到！抵到爆 🔥🍗\n🔥 11月13日（五）18:00 開搶，手快手慢自己知\n星期一至四 $111/位；週五至日及公眾假期 $138/位；小童（1.3米或以下）$88/位\n原價 $258/位，3小時任加重慶麻辣雞煲同御前黃酒雞煲\n每位加 $18 任飲汽水，5位以上成枱仲送埋飲品 🥤\n最少2位起買，約埋朋友屋企人打邊爐啱晒\n📍黃大仙鳳祥樓1樓 富城火鍋海鮮酒家\n自助餐優惠 #抵食 #黃大仙 #富城火鍋 #放題控",
+      "post_url": "https://www.threads.com/@hkplayandtravel/post/DfpU_nKDpTC",
+      "posted_at": "2026-11-12T15:00:32.000Z",
+      "price_text": "$111/位（星期一至四；原價$258/位）",
+      "source_key": "threads-search",
+      "source_name": "Threads @hkplayandtravel",
+      "store": "富城火鍋海鮮酒家"
+    },
+    {
+      "category": "超市",
+      "detail": null,
+      "ends_at": null,
+      "id": 385,
+      "is_ad": false,
+      "is_new": true,
+      "item": "Kabaya西瓜刨冰軟糖",
+      "post_text": "Kabaya西瓜刨冰軟糖$12/3包😱 呢隻好香果味唔藥水，鍾意食有糖粒coating軟糖強烈推薦😇 #友誠",
+      "post_url": "https://facebook.com/groups/supermarketoffer/permalink/1673748230871688/",
+      "posted_at": "2026-11-12T13:20:22.000Z",
+      "price_text": "$12/3包",
+      "source_key": "supermarketoffer",
+      "source_name": "超市優惠關注組",
+      "store": "友誠"
+    },
+    {
+      "category": "零售",
+      "detail": null,
+      "ends_at": null,
+      "id": 393,
+      "is_ad": false,
+      "is_new": true,
+      "item": "鏡框連防藍光鏡片",
+      "post_text": "￼喺threads度見到有人推薦，因為唔見咗副眼鏡，￼今日即刻WhatsApp老闆問有冇時間，多謝老闆咁幫手，￼今日俾我攝一個兩點嘅時間即刻幫我搞，￼鏡框連防藍光￼鏡片都係收我總額$308。￼真係抵到爆。之前嗰副成千蚊㗎。\n￼老闆有好人又專業，￼希望多啲人幫襯佢\n#new optic warehouse",
+      "post_url": "https://www.threads.com/@dorrrrrr000/post/Dfo-bIsmYhQ",
+      "posted_at": "2026-11-12T11:43:00.000Z",
+      "price_text": "$308（之前嗰副成千蚊）",
+      "source_key": "threads-search",
+      "source_name": "Threads @dorrrrrr000",
+      "store": "New Optic Warehouse"
+    },
     {
       "category": "食肆",
       "detail": "平日有松葉蟹；聖誕有頂級魚子醬專區",
@@ -50,7 +98,7 @@
       "ends_at": "2026-12-20",
       "id": 384,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "派對套餐（Pizza、炸雞、沙律、意粉及小食）",
       "post_text": "年年聖誕＋新年搞Party 搞到頭爆嘅人睇過嚟🎄\r\n派對套餐除返開人均$57起，有齊Pizza、炸雞、沙律、意粉同小食!\n\n今年PHD外賣推出3個限時優惠，幫你慳到盡：\r\n85折早鳥:12/11-20/12 期間預訂就有85折優惠\r\n學生8折: 12/11- 20/12期間 學生門市預訂即可享8折\r\nYuu 10倍積分: 12/11-11/1 期間預訂再送10倍積分\n\n最後取貨/送貨期去到 2027 年 1 月 13 日，各位搞手趁有優惠預早預訂啦！\r\n嚟緊開Party唔洗再煩訂咩好😂",
       "post_url": null,
@@ -221,22 +269,6 @@
       "store": "禾田數碼"
     },
     {
-      "category": "超市",
-      "detail": "百佳雙11優惠，最後今日",
-      "ends_at": "2026-11-12",
-      "id": 348,
-      "is_ad": false,
-      "is_new": false,
-      "item": "MEDI.SOLA 健康膳食餐／醫學級護理餐",
-      "post_text": "MEDI.SOLA 百佳雙11優惠\n最後今日💪🏻\n健康膳食餐$55/盒\n醫學級護理餐 $60/盒!!\n▓▓均衡碳蛋脂\n🇰🇷▓韓國製造",
-      "post_url": null,
-      "posted_at": "2026-11-12T07:00:39.000Z",
-      "price_text": "健康膳食餐$55/盒、醫學級護理餐$60/盒",
-      "source_key": "threads-search",
-      "source_name": "Threads @healthy_eatabler",
-      "store": "百佳"
-    },
-    {
       "category": "其他",
       "detail": "優惠碼 NEXTGEN10，用到11月20日；活動日期2026年12月22日至2027年2月21日，中環海濱",
       "ends_at": "2026-11-20",
@@ -347,38 +379,6 @@
       "source_key": "1011675959766407",
       "source_name": "減價優惠情報組 JetsoSuper",
       "store": "i.t"
-    },
-    {
-      "category": "食肆",
-      "detail": "經Klook；另有沙田馬場喜馬當半自助餐買三送一、銅鑼灣十里洋場兩位大閘蟹宴$1340",
-      "ends_at": "2026-11-12",
-      "id": 331,
-      "is_ad": false,
-      "is_new": false,
-      "item": "自助餐買一位第二位+$1",
-      "post_text": "今日klook 12點有海逸君綽自助餐買一位第二位+$1，仲有沙田馬場喜馬當自半自助餐買三送一，9點有銅鑼灣 十里洋場 兩位用大閘蟹宴$1340🫡",
-      "post_url": "https://facebook.com/groups/186837112479756/permalink/1635341820962604/",
-      "posted_at": "2026-11-12T03:50:50.000Z",
-      "price_text": "買一位第二位+$1",
-      "source_key": "186837112479756",
-      "source_name": "自助餐/放題/飲食/酒店優惠情報分享",
-      "store": "海逸君綽"
-    },
-    {
-      "category": "食肆",
-      "detail": "經KKday；另有羲和雅苑$111一位片皮鴨大閘蟹放題、鐵板燒海賀買一送一、合和大堂咖啡廳半自助餐$111一位8折",
-      "ends_at": "2026-11-12",
-      "id": 332,
-      "is_ad": false,
-      "is_new": false,
-      "item": "自助餐$111一位搶",
-      "post_text": "今日KKday 10點有灣景酒店自助餐$111位搶，仲有第二位+$11同5折優惠，12點有羲和雅苑$111一位片皮鴨大閘蟹放題，仲朝其他第二位+$111同41折優惠，仲有鐵板燒海賀買一送一，3點有合和大堂咖啡廳半自助餐$111一位同8折優惠🫡",
-      "post_url": "https://facebook.com/groups/186837112479756/permalink/1635336587629794/",
-      "posted_at": "2026-11-12T03:40:43.000Z",
-      "price_text": "$111一位（第二位+$11／5折）",
-      "source_key": "186837112479756",
-      "source_name": "自助餐/放題/飲食/酒店優惠情報分享",
-      "store": "灣景酒店"
     },
     {
       "category": "食肆",
@@ -530,7 +530,7 @@
       "ends_at": null,
       "id": 383,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "MUZIGAE MANSION 唇釉迷你版＋Pc贈品",
       "post_text": "$56就買到Olive Young先有嘅\nMUZIGAE MANSION 唇釉迷你版同Pc贈品\n睇留言睇片睇更多！",
       "post_url": null,
@@ -603,22 +603,6 @@
       "source_key": "2808948529353315",
       "source_name": "香港兩餸飯關注組",
       "store": "AEON"
-    },
-    {
-      "category": "零售",
-      "detail": "11月2日至12日限定；可郵寄或於門市取貨",
-      "ends_at": "2026-11-12",
-      "id": 311,
-      "is_ad": false,
-      "is_new": false,
-      "item": "秋冬指定商品（買2件或以上7折）",
-      "post_text": "💥 I.T 2026 雙11狂限定優惠｜Part 2\n秋冬衣櫃先別買滿！I.T雙11第二波來了🖤\n\n購物車裡一直捨不得結帳的秋冬單品，\n\n這次終於有理由入手了👀\n\n🎉 Part 2 限時專屬折扣：\n\n🛍️ 買 2 件或以上指定商品，即享 7折\n\n📅 11月2日－12日限定\n\n趁這次優惠，把心願清單變成秋冬新造型🍂\n\n👇🏻立刻選購👇🏻\n\nhttps://hk.iteshop.com/bit/all/fw26-singlesday-promotion-p2?tscode=affhr_hk10070967&utm_source=retail&utm_medium=wsitesell\n\n🚚 可郵寄或於門市取貨\n\n#ITeSHOP #iTeShop730\n\n#折扣 #減價 #大減價 #優惠\n\n#discount #promotion",
-      "post_url": "https://facebook.com/groups/1011675959766407/permalink/1827847321482596/",
-      "posted_at": "2026-11-11T13:17:12.000Z",
-      "price_text": "買2件或以上指定商品7折",
-      "source_key": "1011675959766407",
-      "source_name": "減價優惠情報組 JetsoSuper",
-      "store": "I.T"
     },
     {
       "category": "食肆",
@@ -1259,22 +1243,6 @@
       "source_key": "550139798981605",
       "source_name": "香港街市魚類海鮮研究社",
       "store": "Nitori"
-    },
-    {
-      "category": "零售",
-      "detail": "11月2日至12月12日限定，可郵寄或門市取貨",
-      "ends_at": "2026-11-12",
-      "id": 198,
-      "is_ad": false,
-      "is_new": false,
-      "item": "指定秋冬商品",
-      "post_text": "💥 I.T 2026 雙11狂限定優惠｜Part 2\n秋冬衣櫃先別買滿！I.T雙11第二波來了🖤\n\n購物車裡一直捨不得結帳的秋冬單品，\n\n這次終於有理由入手了👀\n\n🎉 Part 2 限時專屬折扣：\n\n🛍️ 買 2 件或以上指定商品，即享 7折\n\n📅 11月2日－12日限定\n\n趁這次優惠，把心願清單變成秋冬新造型🍂\n\n👇🏻立刻選購👇🏻\n\nhttps://hk.iteshop.com/bit/all/fw26-singlesday-promotion-p2?tscode=affhr_hk10070967&utm_source=retail&utm_medium=wsitesell\n\n🚚 可郵寄或於門市取貨\n\n#ITeSHOP #iTeShop730\n\n#折扣 #減價 #大減價 #優惠\n\n#discount #promotion",
-      "post_url": "https://facebook.com/groups/1011675959766407/permalink/1825985881668740/",
-      "posted_at": "2026-11-09T13:22:33.000Z",
-      "price_text": "買2件或以上7折",
-      "source_key": "1011675959766407",
-      "source_name": "減價優惠情報組 JetsoSuper",
-      "store": "I.T"
     },
     {
       "category": "超市",
@@ -1997,5 +1965,5 @@
       "store": "淘寶"
     }
   ],
-  "syncedAt": "2026-11-12T22:59:48+08:00"
+  "syncedAt": "2026-11-13T00:59:05+08:00"
 }
