@@ -1,25 +1,41 @@
 {
-  "totalLive": 140,
+  "totalLive": 138,
   "categoryCounts": {
     "其他": 17,
-    "網購": 9,
+    "網購": 8,
     "超市": 60,
     "零售": 31,
-    "食肆": 23
+    "食肆": 22
   },
   "bestDiscountPct": 90,
-  "todayNew": 2,
+  "todayNew": 1,
   "sourceTotal": 15,
-  "lastUpdatedAt": "2026-11-13T13:11:11.016Z",
-  "syncedAt": "2026-11-13T23:00:52+08:00",
+  "lastUpdatedAt": "2026-11-13T15:14:19.653Z",
+  "syncedAt": "2026-11-14T00:59:09+08:00",
   "deals": [
+    {
+      "category": "超市",
+      "detail": "下年3月先到期",
+      "ends_at": null,
+      "id": 485,
+      "is_ad": false,
+      "is_new": true,
+      "item": "急凍紅豆餅",
+      "post_text": "急凍紅豆餅74% off清貨$15包😱 下年3月先到期有排可以慢慢食🙈 #donki",
+      "post_url": "https://facebook.com/groups/369987237960476/permalink/1455480022744520/",
+      "posted_at": "2026-11-13T15:05:37.000Z",
+      "price_text": "$15/包（74% off清貨）",
+      "source_key": "369987237960476",
+      "source_name": "超市關注組",
+      "store": "DONKI"
+    },
     {
       "category": "其他",
       "detail": "11月16日12PM開搶，優惠碼1116HOTEL499，經Klook連結落單",
       "ends_at": null,
       "id": 483,
       "is_ad": true,
-      "is_new": true,
+      "is_new": false,
       "item": "五星級酒店住宿（一晚）",
       "post_text": "香港富麗敦海洋公園酒店原價 $1,480 起，11 月 16 日 12PM 優惠碼【1116HOTEL499】一口價 $499 入住五星級酒店\n想 staycation 唞一晚嘅記住 set 鬧鐘\n用返我哋留言嗰條連結入去，再輸入優惠碼 1116HOTEL499 就有得平 💰\n香港好去處 #Staycation #優惠碼",
       "post_url": "https://www.threads.com/@klook.deals/post/DfrsJ6GDKas",
@@ -35,7 +51,7 @@
       "ends_at": null,
       "id": 479,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "雙11套裝（三樽）",
       "post_text": "Rose Hip Vital 雙11套裝\n三樽$1111 (原價$1797)",
       "post_url": "https://facebook.com/groups/1011675959766407/permalink/1829538107980184/",
@@ -126,22 +142,6 @@
       "store": "恆生銀行"
     },
     {
-      "category": "超市",
-      "detail": "今朝一蚊一個益街坊",
-      "ends_at": "2026-11-13",
-      "id": 453,
-      "is_ad": false,
-      "is_new": false,
-      "item": "鴨梨",
-      "post_text": "今日行經麗晶百佳今朝一蚊一個鴨梨益街坊，秋季煲糖水正",
-      "post_url": "https://facebook.com/groups/369987237960476/permalink/1455133936112462/",
-      "posted_at": "2026-11-13T06:46:15.000Z",
-      "price_text": "$1/個",
-      "source_key": "369987237960476",
-      "source_name": "超市關注組",
-      "store": "百佳（麗晶）"
-    },
-    {
       "category": "零售",
       "detail": "客人付款後即下單，唔使等成團",
       "ends_at": null,
@@ -172,22 +172,6 @@
       "source_key": "499964309314902",
       "source_name": "超市優惠關注組（Loee）",
       "store": "i.t"
-    },
-    {
-      "category": "食肆",
-      "detail": "今日限時搶購：12點九香、3點四季悅、6點富城火鍋",
-      "ends_at": "2026-11-13",
-      "id": 449,
-      "is_ad": false,
-      "is_new": false,
-      "item": "九香買一送一／九龍灣四季悅$111一位／富城火鍋$111一位／君怡酒店中餐廳$111/2位",
-      "post_text": "今日KKday 12點有九香一送一 二送二，3點有九龍灣四季悅 $111一位搶，6點有富城火鍋$111一位搶，君怡酒店中餐廳$111/2位搶🫡",
-      "post_url": "https://facebook.com/groups/186837112479756/permalink/1636268524203267/",
-      "posted_at": "2026-11-13T03:51:25.000Z",
-      "price_text": "買一送一，$111一位起",
-      "source_key": "186837112479756",
-      "source_name": "自助餐/放題/飲食/酒店優惠情報分享",
-      "store": "KKday"
     },
     {
       "category": "超市",
@@ -924,22 +908,6 @@
       "source_key": "threads-search",
       "source_name": "Threads @ngaikaman86",
       "store": "馬拉松"
-    },
-    {
-      "category": "網購",
-      "detail": "11月美妝祭，優惠碼11beauty；全場護膚、化妝、彩色隱形眼鏡適用",
-      "ends_at": "2026-11-13",
-      "id": 266,
-      "is_ad": false,
-      "is_new": false,
-      "item": "MAQuillAGE粉底液、Canmake淚袋眼影、Elixir Base等日本化妝品",
-      "post_text": "我啲化妝品嚟嚟去去主要都係用日本品牌！之前去日本入手咗支 MAQuillAGE 粉底液，不經不覺都用得 7788，本來諗住等下次飛先補貨，點知計過條數，發現趁今次 HKTVmall 優惠買，價錢竟然同喺日本買差唔多！\n\n嚟緊 HKTVmall 11月美妝祭，全場護膚、化妝、彩色隱形眼鏡 滿 $699 享85折（最多減$200），優惠期 11/11 至 13/11，用優惠碼 11beauty 就得！\n\n我已經默默將心水日本好物加入購物車，除咗回購 MAQuillAGE，仲順手加埋 Canmake 人氣淚袋眼影，同埋我無限回購嘅 Elixir Base 落購物車，輕鬆湊夠 $699 補貨兼試新嘢。\n\n你哋仲有冇介紹邊款日本化妝品係用完會想無限回購？等我一次入手埋",
-      "post_url": null,
-      "posted_at": "2026-11-11T10:31:42.000Z",
-      "price_text": "滿$699享85折（最多減$200）",
-      "source_key": "threads-search",
-      "source_name": "Threads @z.tszy",
-      "store": "HKTVmall"
     },
     {
       "category": "零售",
