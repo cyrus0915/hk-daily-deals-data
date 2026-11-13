@@ -1,17 +1,17 @@
 {
-  "totalLive": 140,
+  "totalLive": 141,
   "categoryCounts": {
-    "其他": 17,
+    "其他": 18,
     "網購": 8,
     "超市": 61,
     "零售": 31,
     "食肆": 23
   },
   "bestDiscountPct": 90,
-  "todayNew": 2,
+  "todayNew": 1,
   "sourceTotal": 15,
-  "lastUpdatedAt": "2026-11-13T17:09:49.246Z",
-  "syncedAt": "2026-11-14T02:58:43+08:00",
+  "lastUpdatedAt": "2026-11-13T19:07:41.281Z",
+  "syncedAt": "2026-11-14T04:59:06+08:00",
   "deals": [
     {
       "category": "食肆",
@@ -19,7 +19,7 @@
       "ends_at": null,
       "id": 498,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "三餸飯",
       "post_text": "荃灣放工，本來諗住去楊屋道街市買條魚，但原來成個街市都無乜平魚買，結果改買蝦。沿途經過呢個屹立多年不倒的兩餸飯，唔知係唔多咗泰風情同權發夾擊，呢間5點後特價$37三餸飯，仲要飯餸分開裝，唔駛加錢。結果好似買咗兩盒淨餸，再加兩盒白飯咁，自己炒菜，白灼蝦，三父子吃，仲有一盒飯放番入雪櫃，皆因我盡量戒碳水化合物。\n\n荃灣 桂香燒味餐廳",
       "post_url": "https://facebook.com/groups/ricewith2sides/permalink/4626502380931245/",
@@ -30,12 +30,28 @@
       "store": "桂香燒味餐廳（荃灣）"
     },
     {
+      "category": "其他",
+      "detail": "用套房券；送天浪淘園及一次性免費mini bar；酒吧買一送一券",
+      "ends_at": null,
+      "id": 499,
+      "is_ad": false,
+      "is_new": true,
+      "item": "平日房價一晚",
+      "post_text": "Andaz Macau\n澳門安達仕酒店\n\n平日價好抵今次只係$964晚\n用咗套房券\n送天浪淘園同一次性免費mini bar\n\nCheck-in時順便問吓酒吧幾點關門\n職員問你鍾意飲酒啊？\n我話係呀😂\n得到酒吧買一送一券🙏\nCocktail都有得送係好慷慨\n\n上到房果盤好豐富\n仲送咗Espresso Martini\n酒鬼見到有酒就開心😎\n值得一提就係Andaz間酒吧真係Good\n係專業嘅\n唔係普普通通Hea你嗰啲\n而且價錢喺高級酒店嚟講亦算好平\n\n澳門Andaz講真地點係唔方便\n個Lounge有亦=冇\n不過房間同酒吧都高質\n所以真係睇個人需要\n好似我咁都唔係好出街嘅就幾好\n如果一家大細又諗住出去觀光旅遊就要plan下",
+      "post_url": "https://facebook.com/groups/186837112479756/permalink/1636736360823150/",
+      "posted_at": "2026-11-13T15:26:22.000Z",
+      "price_text": "$964/晚",
+      "source_key": "186837112479756",
+      "source_name": "自助餐/放題/飲食/酒店優惠情報分享",
+      "store": "Andaz Macau（澳門安達仕酒店）"
+    },
+    {
       "category": "超市",
       "detail": "下年3月先到期",
       "ends_at": null,
       "id": 491,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "急凍紅豆餅",
       "post_text": "急凍紅豆餅74% off清貨$15包😱 下年3月先到期有排可以慢慢食🙈 #donki",
       "post_url": "https://facebook.com/groups/supermarketoffer/permalink/1674897204090124/",
