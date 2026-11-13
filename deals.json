@@ -1,18 +1,50 @@
 {
-  "totalLive": 123,
+  "totalLive": 125,
   "categoryCounts": {
     "其他": 15,
     "網購": 8,
     "超市": 55,
     "零售": 26,
-    "食肆": 19
+    "食肆": 21
   },
   "bestDiscountPct": 90,
-  "todayNew": 0,
+  "todayNew": 2,
   "sourceTotal": 15,
-  "lastUpdatedAt": "2026-11-12T23:07:19.730Z",
-  "syncedAt": "2026-11-13T08:59:12.268+08:00",
+  "lastUpdatedAt": "2026-11-13T01:13:17.074Z",
+  "syncedAt": "2026-11-13T10:58:44.127+08:00",
   "deals": [
+    {
+      "category": "食肆",
+      "detail": "11月13日12:00開搶；11月16日起全新主題：冰鎮龍蝦・鱈場蟹腳・麵包蟹・招牌軟殼蟹叻沙・日本宮崎和牛鐵板燒・黃金松露烤鴨任食",
+      "ends_at": null,
+      "id": 435,
+      "is_ad": false,
+      "is_new": true,
+      "item": "「聖誕奇幻之旅」自助餐",
+      "post_text": "🎄【11月13日 12:00 開搶｜尖沙咀東｜九龍香格里拉｜Café Kool\n「聖誕奇幻之旅」自助餐買一送一！】\n11月16日起全新主題！冰鎮龍蝦・鱈場蟹腳・麵包蟹・招牌軟殼蟹叻沙・日本宮崎和牛鐵板燒・黃金松露烤鴨任食\nhttps://www.kkday.com/zh-hk/product/133283?cid=22141",
+      "post_url": "https://www.threads.com/@mrs.savemoney/post/DfqaCPKgJ4E",
+      "posted_at": "2026-11-13T01:03:31.000Z",
+      "price_text": "買一送一",
+      "source_key": "threads-search",
+      "source_name": "Threads @mrs.savemoney",
+      "store": "九龍香格里拉 Café Kool"
+    },
+    {
+      "category": "食肆",
+      "detail": "另有日本麝香蜜瓜芭菲；Weekend有吞拿魚show",
+      "ends_at": null,
+      "id": 434,
+      "is_ad": false,
+      "is_new": true,
+      "item": "自助餐任食（蟹粉燴海參・鱈場蟹腳・招牌軟殼蟹叻沙・日本宮崎和牛鐵板燒・黃金松露烤鴨）",
+      "post_text": "小見香格里拉買一送一\n蟹粉燴海參・鱈場蟹腳・招牌軟殼蟹叻沙・日本宮崎和牛鐵板燒・黃金松露烤鴨任食\n🍈日本麝香蜜瓜芭菲\n去日本食都唔平呀🥰🥰\nWeekend有吞拿魚 show\n🎄聖誕又多一間選擇啦",
+      "post_url": "https://www.threads.com/@mrs.savemoney/post/DfqaBX9gNRM",
+      "posted_at": "2026-11-13T01:03:24.000Z",
+      "price_text": "買一送一",
+      "source_key": "threads-search",
+      "source_name": "Threads @mrs.savemoney",
+      "store": "小見香格里拉"
+    },
     {
       "category": "食肆",
       "detail": "11月13日18:00開搶；週五至日及公眾假期$138/位，小童$88/位；黃大仙鳳祥樓1樓；最少2位起",
