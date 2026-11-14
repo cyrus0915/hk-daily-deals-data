@@ -8,10 +8,10 @@
     "食肆": 23
   },
   "bestDiscountPct": 90,
-  "todayNew": 1,
+  "todayNew": 0,
   "sourceTotal": 15,
-  "lastUpdatedAt": "2026-11-13T21:06:48.847Z",
-  "syncedAt": "2026-11-14T06:58:57+08:00",
+  "lastUpdatedAt": "2026-11-13T23:07:51.525Z",
+  "syncedAt": "2026-11-14T08:59:08+08:00",
   "deals": [
     {
       "category": "食肆",
@@ -99,7 +99,7 @@
       "ends_at": "2026-11-22",
       "id": 515,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "MIRROR演唱會門票搶飛機會（$1,480／$1,080票價）",
       "post_text": "MIRROR就嚟開演唱會🎤，又搶唔到飛😩？\n依家有Jetso畀大家🎁！喺Keeta嗌外賣就有機會搶MIRROR演唱會飛🎫🙌！\n只要完成指定任務就有機會搶飛：\n即日至11月22日用Keeta落單滿3單🛒、每單滿$200  外送／自取，就即刻獲得搶票資格 ✨，有機會搶到演唱會門票1張（$1,480 / $1,080票價）🤩！\n⏰搶飛時間：每晚9點開搶！ \n\n快啲去Keeta落單📱兼搶飛啦🔥！https://url.mykeeta.com/D1ToLKFz",
       "post_url": null,
