@@ -8,10 +8,10 @@
     "食肆": 27
   },
   "bestDiscountPct": 90,
-  "todayNew": 1,
+  "todayNew": 0,
   "sourceTotal": 15,
-  "lastUpdatedAt": "2026-11-14T19:10:13.547Z",
-  "syncedAt": "2026-11-15T04:58:46+08:00",
+  "lastUpdatedAt": "2026-11-14T21:08:24.632Z",
+  "syncedAt": "2026-11-15T06:58:56+08:00",
   "deals": [
     {
       "category": "零售",
@@ -259,7 +259,7 @@
       "ends_at": null,
       "id": 575,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "芝士威化卷",
       "post_text": "喺恵康買咗呢個芝士威化卷好好食好脆，$25好大筒勁平，佢有另一隻朱古力花生味，但係我唔中意花生，有冇人食過可唔可以話我知花生味重唔重，冇乜的話即買，因為我好中意朱古力味",
       "post_url": null,
