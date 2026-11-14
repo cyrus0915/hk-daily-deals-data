@@ -1,18 +1,34 @@
 {
-  "totalLive": 142,
+  "totalLive": 143,
   "categoryCounts": {
     "其他": 19,
     "網購": 8,
-    "超市": 61,
+    "超市": 62,
     "零售": 31,
     "食肆": 23
   },
   "bestDiscountPct": 90,
-  "todayNew": 0,
+  "todayNew": 1,
   "sourceTotal": 15,
-  "lastUpdatedAt": "2026-11-13T23:07:51.525Z",
-  "syncedAt": "2026-11-14T08:59:08+08:00",
+  "lastUpdatedAt": "2026-11-14T01:08:44.827Z",
+  "syncedAt": "2026-11-14T10:58:22+08:00",
   "deals": [
+    {
+      "category": "超市",
+      "detail": "平過日本，北海道牛奶忌廉",
+      "ends_at": null,
+      "id": 532,
+      "is_ad": false,
+      "is_new": true,
+      "item": "北海道忌廉瑞士卷",
+      "post_text": "大推埋呢個北海道忌廉瑞士卷\n喺日本食過，一試難忘\n喺日本都好難搵到 結果竟然係成興隆買到 仲要平過日本 只係$26\n中間嘅cream  濃而不膩， 個cream係北海道牛奶製造，好滑，但係唔甜\n說動佢當雪糕卷食又得 \n解凍食又得， 切開佢 食幾多拎幾多，\n\n冇諗到成興隆甜品部咁高質\n有咁多好嘢 等待被看見",
+      "post_url": null,
+      "posted_at": "2026-11-14T01:03:27.000Z",
+      "price_text": "$26",
+      "source_key": "threads-search",
+      "source_name": "Threads @letvllvvllv",
+      "store": "成興隆"
+    },
     {
       "category": "食肆",
       "detail": "飯餸分開裝，唔駛加錢",
