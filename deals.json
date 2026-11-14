@@ -1,17 +1,17 @@
 {
-  "totalLive": 157,
+  "totalLive": 154,
   "categoryCounts": {
     "其他": 20,
     "網購": 8,
-    "超市": 69,
-    "零售": 33,
+    "超市": 67,
+    "零售": 32,
     "食肆": 27
   },
   "bestDiscountPct": 90,
-  "todayNew": 3,
+  "todayNew": 1,
   "sourceTotal": 15,
-  "lastUpdatedAt": "2026-11-14T13:05:39.274Z",
-  "syncedAt": "2026-11-14T22:58:59+08:00",
+  "lastUpdatedAt": "2026-11-14T15:09:19.419Z",
+  "syncedAt": "2026-11-15T00:58:53+08:00",
   "deals": [
     {
       "category": "超市",
@@ -19,7 +19,7 @@
       "ends_at": null,
       "id": 562,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "豆豉鯪魚",
       "post_text": "十蚊罐豆豉鯪魚2029年先過期\n算唔算抵\n\n新蒲崗友誠",
       "post_url": "https://facebook.com/groups/369987237960476/permalink/1456274525998403/",
@@ -35,7 +35,7 @@
       "ends_at": null,
       "id": 561,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "檸檬餅（買滿$30送）",
       "post_text": "惠康又做Promotion，買滿$30送檸檬餅，呢度全部$32！超抵！😉",
       "post_url": "https://facebook.com/groups/supermarketoffer/permalink/1675708267342351/",
@@ -67,7 +67,7 @@
       "ends_at": "2026-11-15",
       "id": 564,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "網店紙巾、廁紙",
       "post_text": "惠康超級市場：【快閃2天 網店紙巾廁紙滿$188享85折】至15/11/2026｜著數 - GroupBuya | https://www.groupbuya.com/jetso/557366",
       "post_url": "https://www.threads.com/@groupbuya_com/post/Dft1vm-G-ik",
@@ -108,6 +108,22 @@
       "source_key": "threads-search",
       "source_name": "Threads @buffetweekly",
       "store": "茗悅（金鐘港島香格里拉）"
+    },
+    {
+      "category": "食肆",
+      "detail": "屯門碼頭分店；買一盒都得",
+      "ends_at": null,
+      "id": 568,
+      "is_ad": false,
+      "is_new": true,
+      "item": "兩餸飯盒飯",
+      "post_text": "原本收市價50蚊兩盒，現已調整為30蚊盒 。好既係買一盒都得，比原價平十幾蚊，唔好就當然係買兩盒的話，比以往特價時段貴10蚊。\n咕嚕肉一如以往好味，但羅漢齋就相當普通，罐頭仲好食過佢。\n\n屯門碼頭 稻香",
+      "post_url": "https://facebook.com/groups/ricewith2sides/permalink/4627356727512477/",
+      "posted_at": "2026-11-14T08:48:52.000Z",
+      "price_text": "收市價$30/盒（原價$50/兩盒）",
+      "source_key": "2808948529353315",
+      "source_name": "香港兩餸飯關注組",
+      "store": "稻香"
     },
     {
       "category": "零售",
@@ -204,22 +220,6 @@
       "source_key": "threads-search",
       "source_name": "Threads @brightwin3456",
       "store": "HKTVmall"
-    },
-    {
-      "category": "超市",
-      "detail": "須先喺活動頁領券，適用惠康／Market Place網店／yuu網購",
-      "ends_at": "2026-11-14",
-      "id": 539,
-      "is_ad": true,
-      "is_new": false,
-      "item": "好運牌香米5公斤／出前一丁30包（滿$888享88折例子）",
-      "post_text": "惠康網店滿$888享88折，只限今日。\n\n今日（11月14日）送貨上門買滿$888享88折，須先喺活動頁領券，適用於惠康／Market Place網店／yuu網購。折實例如好運牌香米5公斤$47.6/包、出前一丁30包$79（平均$2.7/包）。\n\n百佳 PNS 網購指定花王漂白水／彩漂滿$888送多功能電火鍋，指定滴露滿$488送旅行袋／購物車，售完即止。\n\nKlook 麗思卡爾頓 Café 103 自助餐買2送2，午市四位$1,404起（人均低至$351），至11月30日。\n\niHerb 自家品牌輸入 NOV26HB 享低至7折，節日禮品無需碼享85折，至11月19日02:00。\n（1）官網公開碼：NOV26HB、GOLDHK、MYAPP15、NEW20（以當日特惠頁／結帳為準）。\n（2）可輸入推薦碼「BCW3191」同其他優惠／公開碼。通常一個訂單一個碼、唔疊加；結帳可能留較大優惠嗰個（以頁面實際套用為準）。請紀錄結算金額自行對比，見成功減價先付款。\n（3）本帖含推薦碼／推廣連結，使用後可能獲佣金；唔影響應付價，亦唔構成購買建議。\n\n詳細睇 bio。\n\n你會先掃惠康88折，...",
-      "post_url": null,
-      "posted_at": "2026-11-14T02:18:03.000Z",
-      "price_text": "滿$888享88折；香米$47.6/包、出前一丁30包$79",
-      "source_key": "threads-search",
-      "source_name": "Threads @jetsoshare.hk",
-      "store": "惠康網店"
     },
     {
       "category": "超市",
@@ -926,22 +926,6 @@
       "store": "四洲零食（淘大花園）"
     },
     {
-      "category": "超市",
-      "detail": "限時快閃特價",
-      "ends_at": "2026-11-14",
-      "id": 336,
-      "is_ad": true,
-      "is_new": false,
-      "item": "正宗意大利水牛芝士 Fior di Latte",
-      "post_text": "西貢店限時快閃特價: 正宗意大利水牛芝士 Fior di Latte\nexpriy date: 14 Nov $10個",
-      "post_url": null,
-      "posted_at": "2026-11-12T04:35:02.000Z",
-      "price_text": "$10個",
-      "source_key": "threads-search",
-      "source_name": "Threads @raymonddeliclub",
-      "store": "Raymond Deli Club（西貢店）"
-    },
-    {
       "category": "零售",
       "detail": "品牌包括CHOCOOLATE、FINGERCROXX、IZZUE及FIVE CM；數量有限售完即止，可郵寄或門市取貨",
       "ends_at": null,
@@ -1116,22 +1100,6 @@
       "source_key": "threads-search",
       "source_name": "Threads @fongar.media",
       "store": "Olive Young"
-    },
-    {
-      "category": "食肆",
-      "detail": "今日至11月14日每日下午4時至6時外賣自取半價，羊腩煲每人限1份、豬手每人限2份，唔適用機場分店",
-      "ends_at": "2026-11-14",
-      "id": 287,
-      "is_ad": false,
-      "is_new": false,
-      "item": "枝竹羊腩煲（1磅）／紅燒原隻豬手外賣自取半價",
-      "post_text": "【全港優惠速遞｜一粥麵 外賣半價】\n\n今日至11月14日，每日下午4時至6時，一粥麵外賣自取半價。\n枝竹羊腩煲（1磅）而家 $99（原價 $198），仲送唐生菜。\n紅燒原隻豬手 $39（原價 $58）。\n\n只限呢兩個鐘外賣自取。羊腩煲每人限 1 份，豬手每人限 2 份。\n唔適用自助點餐機、手機點餐同網上外賣平台，亦唔適用機場分店。不可與其他優惠同時使用。數量有限，售完即止。\n\n你會揀羊腩煲，定豬手？\n\n詳情：https://www.facebook.com/SuperSuper.CongeeAndNoodle/posts/pfbid0AoYTpVrUbukEktZCyWfKkqGn3EddCogXY7c324aSpMB5RD4XWRvemu19UUd5XPScl\n詳情以官方為準；優惠或隨時完。\n\n#全港優惠速遞 #一粥麵 #SuperSuper #外賣 #香港著數",
-      "post_url": null,
-      "posted_at": "2026-11-11T17:05:05.000Z",
-      "price_text": "枝竹羊腩煲$99（原價$198）、紅燒原隻豬手$39（原價$58）",
-      "source_key": "threads-search",
-      "source_name": "Threads @hkdeal.express",
-      "store": "一粥麵"
     },
     {
       "category": "網購",
@@ -1660,22 +1628,6 @@
       "source_key": "threads-search",
       "source_name": "Threads @comparetiger",
       "store": "淘寶"
-    },
-    {
-      "category": "零售",
-      "detail": "11月10日至11月14日只限5天，太古分店價格有別",
-      "ends_at": "2026-11-14",
-      "id": 197,
-      "is_ad": false,
-      "is_new": false,
-      "item": "指定韓國美妝品",
-      "post_text": "韓印紅~超級破低價!!指定韓國美妝品~36折!!! 係36折!\n\n韓印紅Beauty 大大5天激賞優惠!! 吾好走失!\n\n韓國 100% 正品空運到港  皇牌美妝保養品限時狂減！\n\n告別乾燥換季，以無敵性價比入手韓妞同款透亮美肌！\n\n從人氣修護霜、安瓶精華到潔膚好物，機會難得，\n\n手快有手慢無！\n\n 優惠重點摘要\n\n活動日期： 2026.11月10日 － 11月14日（只限5天！）\n\n正品保證： 100% 韓國正品（韓印紅BEAUTY嚴選）\n\n震撼折扣： 全線精選美妝保養品直降低價 36 折64%off\n\n超高性價比： 多款皇牌單品激筍價發售，寵愛肌膚話咁易！\n\n 精選人氣好物推介優惠：件件韓國直送,功能顯見!!\n\n(優惠有限，售完即止！快約埋閨蜜一齊掃貨啦～)\n\n韓印紅｜韓國美妝｜韓國個人清潔用品\n\nhttps://www.hanyinhong.co.kr/\n\n優惠有限,售完即止!\n\n韓印紅各分店為您服務\n\n*太古分店價格有別*\n\n活動優惠受條件及細則約束\n\n如有任何爭議，韓印紅保留最終決定權。\n\nwww.hanyinhong.co.kr\n\n韓印紅分店地址:\n\nhttps://www.hanyinhong.co.kr/%E9%9F%93%E5%8D%B0%E7%B4......\n\n#韓印紅Beauty #韓國美妝 #正品保障 #5折優惠 #限時搶購 #性價比首選 #韓妞必備 #韓印紅 #hanyinhong #5折 #68元 #kbeauty #korea #koreanskincare",
-      "post_url": "https://facebook.com/groups/1011675959766407/permalink/1826635748270420/",
-      "posted_at": "2026-11-10T06:32:29.000Z",
-      "price_text": "36折",
-      "source_key": "1011675959766407",
-      "source_name": "減價優惠情報組 JetsoSuper",
-      "store": "韓印紅"
     },
     {
       "category": "零售",
