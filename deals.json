@@ -1,17 +1,17 @@
 {
-  "totalLive": 155,
+  "totalLive": 156,
   "categoryCounts": {
     "其他": 20,
     "網購": 8,
-    "超市": 67,
+    "超市": 68,
     "零售": 33,
     "食肆": 27
   },
   "bestDiscountPct": 90,
   "todayNew": 1,
   "sourceTotal": 15,
-  "lastUpdatedAt": "2026-11-14T17:08:32.905Z",
-  "syncedAt": "2026-11-15T02:59:12+08:00",
+  "lastUpdatedAt": "2026-11-14T19:10:13.547Z",
+  "syncedAt": "2026-11-15T04:58:46+08:00",
   "deals": [
     {
       "category": "零售",
@@ -19,7 +19,7 @@
       "ends_at": null,
       "id": 571,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "精選T恤（CHOCOOLATE、FINGERCROXX、IZZUE、FIVE CM）",
       "post_text": "💥 i.t 超抵價精選T恤 | 低至$79⚡\n✨$79 / $89 / $99 專區任你揀！\n\n人氣品牌包括:CHOCOOLATE、FINGERCROXX、IZZUE及FIVE CM😍😍😍​\n\n快啲tag朋友一齊夾單掃貨啦～🚀\n\n💥 不定時會加新貨品，密切留意\n\n數量有限、售完即止！\n\n🚚 可郵寄或於門市取貨\n\n📦SHOP NOW👇🏻\n\n http://hk.iteshop.com/sit/all/graphic-tee-collection?tscode=affhr_hk10070967&utm_source=retail&utm_medium=itesell_FastTSS26_6189\n\n#ITeSHOP #iTeShop730 #折扣 #減價 #大減價 #優惠 #discount #promotion",
       "post_url": "https://facebook.com/groups/1011675959766407/permalink/1830734821193846/",
@@ -252,6 +252,22 @@
       "source_key": "threads-search",
       "source_name": "Threads @letvllvvllv",
       "store": "成興隆"
+    },
+    {
+      "category": "超市",
+      "detail": "另有朱古力花生味",
+      "ends_at": null,
+      "id": 575,
+      "is_ad": false,
+      "is_new": true,
+      "item": "芝士威化卷",
+      "post_text": "喺恵康買咗呢個芝士威化卷好好食好脆，$25好大筒勁平，佢有另一隻朱古力花生味，但係我唔中意花生，有冇人食過可唔可以話我知花生味重唔重，冇乜的話即買，因為我好中意朱古力味",
+      "post_url": null,
+      "posted_at": "2026-11-13T22:48:04.000Z",
+      "price_text": "$25",
+      "source_key": "threads-search",
+      "source_name": "Threads @biffinkwok",
+      "store": "惠康"
     },
     {
       "category": "食肆",
