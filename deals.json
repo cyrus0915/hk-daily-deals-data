@@ -1,12 +1,17 @@
 {
-  "bestDiscountPct": 90,
+  "totalLive": 159,
   "categoryCounts": {
     "其他": 19,
     "網購": 9,
-    "超市": 70,
+    "超市": 71,
     "零售": 32,
     "食肆": 28
   },
+  "bestDiscountPct": 90,
+  "todayNew": 1,
+  "sourceTotal": 15,
+  "lastUpdatedAt": "2026-11-15T19:10:29.743Z",
+  "syncedAt": "2026-11-16T04:58:40+08:00",
   "deals": [
     {
       "category": "超市",
@@ -14,7 +19,7 @@
       "ends_at": null,
       "id": 607,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "澳洲封門柳（約$58/磅）及日本稻庭烏冬",
       "post_text": "介绍呢隻澳洲封門柳，約58元一磅原條買，當扒煎，打邊爐，牛肉炒菜都一流，回家放溶一點自己修一下白色筋膜，再斜切真空，我就一磅左右一pack，約12兩，另外23元日本稻庭烏冬，已经叫平，我上次在此買扒join會員，今次再9折。呢間青林好像有分店，我在保安道那裡買，覺得值得分享给大家，記住封門柳炒菜做到剛熟便可，牛肉味一絕",
       "post_url": "https://facebook.com/groups/1011675959766407/permalink/1831684567765538/",
@@ -23,6 +28,22 @@
       "source_key": "1011675959766407",
       "source_name": "減價優惠情報組 JetsoSuper",
       "store": "青林"
+    },
+    {
+      "category": "超市",
+      "detail": "馬頭角道分店",
+      "ends_at": null,
+      "id": 610,
+      "is_ad": false,
+      "is_new": true,
+      "item": "10個麵連公仔",
+      "post_text": "有公仔  有10個麵  $56\n惠康 馬頭角道",
+      "post_url": "https://facebook.com/groups/369987237960476/permalink/1457327075893148/",
+      "posted_at": "2026-11-15T15:22:59.000Z",
+      "price_text": "$56",
+      "source_key": "369987237960476",
+      "source_name": "超市關注組",
+      "store": "惠康"
     },
     {
       "category": "網購",
@@ -2536,10 +2557,5 @@
       "source_name": "Threads @comparetiger",
       "store": "淘寶"
     }
-  ],
-  "lastUpdatedAt": "2026-11-15T17:10:11.683Z",
-  "sourceTotal": 15,
-  "syncedAt": "2026-11-16T02:59:21+08:00",
-  "todayNew": 1,
-  "totalLive": 158
+  ]
 }
