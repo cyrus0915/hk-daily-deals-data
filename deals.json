@@ -8,10 +8,10 @@
     "食肆": 28
   },
   "bestDiscountPct": 90,
-  "todayNew": 1,
+  "todayNew": 0,
   "sourceTotal": 15,
-  "lastUpdatedAt": "2026-11-15T19:10:29.743Z",
-  "syncedAt": "2026-11-16T04:58:40+08:00",
+  "lastUpdatedAt": "2026-11-15T21:08:53.924Z",
+  "syncedAt": "2026-11-16T06:59:00+08:00",
   "deals": [
     {
       "category": "超市",
@@ -35,7 +35,7 @@
       "ends_at": null,
       "id": 610,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "10個麵連公仔",
       "post_text": "有公仔  有10個麵  $56\n惠康 馬頭角道",
       "post_url": "https://facebook.com/groups/369987237960476/permalink/1457327075893148/",
