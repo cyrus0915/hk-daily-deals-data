@@ -2,19 +2,35 @@
   "bestDiscountPct": 90,
   "categoryCounts": {
     "其他": 21,
-    "網購": 8,
-    "超市": 71,
+    "網購": 9,
+    "超市": 72,
     "零售": 34,
-    "食肆": 29
+    "食肆": 30
   },
   "deals": [
+    {
+      "category": "網購",
+      "detail": "優惠碼 JPSIM2；包郵；買完後1年內啟用都得",
+      "ends_at": "2026-11-18",
+      "id": 603,
+      "is_ad": false,
+      "is_new": true,
+      "item": "日本30日上網卡（35GB）",
+      "post_text": "準備飛日本嘅朋友注意！ CUniq 網店出咗日本上網卡全年最低價優惠，計返開平均 $79 就有 30 日 35GB 高速數據，仲要包郵，性價比高到誇張！ ​\n\n📱 CUniq 日本30日上網卡（35GB）快閃優惠 ​超筍價錢：原價 $100/張，買滿 2 張只要 $158（即減 $42），平均每張 $79，仲免運費包郵！ ​優惠碼：JPSIM2 ​優惠期限：去到 11 月 18 日 咋，手快有手慢冇！\n\n ​📋 上網卡重點規格 ​數據用量：35GB 5G/4G 高速數據（用完之後會限速至 256kbps 無限任用，但唔支援網絡分享）\n \n可用日數：啟用後起計 30 日（至第 30 日香港時間 23:59 結束） ​\n超長有效期：買完之後 1 年內 啟用都得，就算出年先飛都完全可以預先入手囤定貨！ ​\n適用裝置：三合一實體 SIM 卡（Nano / Micro / Normal），手機需配備 VoLTE 功能 ​\n（溫馨提示：如果網店買實體卡滿 $111，另外仲有優惠碼 SIM111 可以減 $11，優惠期到 11 月 19 日；不過買兩張用 JPSIM2 減 $42 明顯抵玩好多！",
+      "post_url": null,
+      "posted_at": "2026-11-15T13:03:59.000Z",
+      "price_text": "原價$100/張，買滿2張$158（平均每張$79）",
+      "source_key": "threads-search",
+      "source_name": "Threads @couponqueen0915",
+      "store": "CUniq"
+    },
     {
       "category": "超市",
       "detail": "屯門大興惠康",
       "ends_at": null,
       "id": 596,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "不鏽鋼鍋連玻璃蓋",
       "post_text": "屯門大興惠康俾我見到不鏽鋼鍋連玻璃蓋，$42又真係幾抵，分分鐘可能抵過去拼多多買。",
       "post_url": "https://facebook.com/groups/369987237960476/permalink/1457084749250714/",
@@ -26,11 +42,43 @@
     },
     {
       "category": "超市",
+      "detail": "屯門大興分店",
+      "ends_at": null,
+      "id": 601,
+      "is_ad": false,
+      "is_new": true,
+      "item": "不鏽鋼鍋連玻璃蓋",
+      "post_text": "屯門大興惠康俾我見到不鏽鋼鍋連玻璃蓋，$42又真係幾抵，分分鐘可能抵過去拼多多買。",
+      "post_url": "https://facebook.com/groups/supermarketoffer/permalink/1676587067254471/",
+      "posted_at": "2026-11-15T09:54:51.000Z",
+      "price_text": "$42",
+      "source_key": "supermarketoffer",
+      "source_name": "超市優惠關注組",
+      "store": "惠康"
+    },
+    {
+      "category": "食肆",
+      "detail": "聖誕節蛋糕優先預訂",
+      "ends_at": "2026-11-15",
+      "id": 604,
+      "is_ad": false,
+      "is_new": true,
+      "item": "聖誕節蛋糕（Gather In The Glow）",
+      "post_text": "東海堂：【Gather In The Glow  聖誕節蛋糕優先預訂低至86折‼️】至115/11/2026｜著數 - GroupBuya\nhttps://www.groupbuya.com/jetso/557401",
+      "post_url": null,
+      "posted_at": "2026-11-15T09:31:00.000Z",
+      "price_text": "低至86折",
+      "source_key": "threads-search",
+      "source_name": "Threads @groupbuya_com",
+      "store": "東海堂"
+    },
+    {
+      "category": "超市",
       "detail": "10分鐘搞掂；平過嗌外賣",
       "ends_at": null,
       "id": 600,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "金湯酸菜脆魚（有寬粉）",
       "post_text": "惠康呢款金湯酸菜脆魚好正😋\n魚片無骨，酸菜夠晒酸辣\n最正係佢有埋寬粉！！！\n10分鐘搞掂先$38\n平過嗌外賣🙂‍↔️",
       "post_url": "https://www.threads.com/@kinki.fungggg/post/DfwQOFSka-1",
@@ -46,7 +94,7 @@
       "ends_at": null,
       "id": 599,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "燒鵝",
       "post_text": "唔係打手，不過家住附近，昨試過好食好味，今日又再來。（朗豪坊很多店六，日都無優惠，唯這間仲有88折）\n#明壹燒鵝",
       "post_url": "https://facebook.com/groups/1592475571141717/permalink/3345768422479081/",
@@ -2617,9 +2665,9 @@
       "store": "淘寶"
     }
   ],
-  "lastUpdatedAt": "2026-11-15T11:06:27.602Z",
+  "lastUpdatedAt": "2026-11-15T13:09:03.804Z",
   "sourceTotal": 15,
-  "syncedAt": "2026-11-15T20:59:01+08:00",
+  "syncedAt": "2026-11-15T22:59:21+08:00",
   "todayNew": 3,
-  "totalLive": 163
+  "totalLive": 166
 }
