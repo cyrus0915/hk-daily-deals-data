@@ -3,11 +3,59 @@
   "categoryCounts": {
     "其他": 21,
     "網購": 8,
-    "超市": 69,
+    "超市": 71,
     "零售": 34,
-    "食肆": 28
+    "食肆": 29
   },
   "deals": [
+    {
+      "category": "超市",
+      "detail": "屯門大興惠康",
+      "ends_at": null,
+      "id": 596,
+      "is_ad": false,
+      "is_new": true,
+      "item": "不鏽鋼鍋連玻璃蓋",
+      "post_text": "屯門大興惠康俾我見到不鏽鋼鍋連玻璃蓋，$42又真係幾抵，分分鐘可能抵過去拼多多買。",
+      "post_url": "https://facebook.com/groups/369987237960476/permalink/1457084749250714/",
+      "posted_at": "2026-11-15T09:54:57.000Z",
+      "price_text": "$42",
+      "source_key": "369987237960476",
+      "source_name": "超市關注組",
+      "store": "惠康（屯門大興）"
+    },
+    {
+      "category": "超市",
+      "detail": "10分鐘搞掂；平過嗌外賣",
+      "ends_at": null,
+      "id": 600,
+      "is_ad": false,
+      "is_new": true,
+      "item": "金湯酸菜脆魚（有寬粉）",
+      "post_text": "惠康呢款金湯酸菜脆魚好正😋\n魚片無骨，酸菜夠晒酸辣\n最正係佢有埋寬粉！！！\n10分鐘搞掂先$38\n平過嗌外賣🙂‍↔️",
+      "post_url": "https://www.threads.com/@kinki.fungggg/post/DfwQOFSka-1",
+      "posted_at": "2026-11-15T07:33:11.000Z",
+      "price_text": "$38",
+      "source_key": "threads-search",
+      "source_name": "Threads @kinki.fungggg",
+      "store": "惠康"
+    },
+    {
+      "category": "食肆",
+      "detail": "朗豪坊多間店週六、日無優惠，呢間仲有88折",
+      "ends_at": null,
+      "id": 599,
+      "is_ad": false,
+      "is_new": true,
+      "item": "燒鵝",
+      "post_text": "唔係打手，不過家住附近，昨試過好食好味，今日又再來。（朗豪坊很多店六，日都無優惠，唯這間仲有88折）\n#明壹燒鵝",
+      "post_url": "https://facebook.com/groups/1592475571141717/permalink/3345768422479081/",
+      "posted_at": "2026-11-15T06:21:42.000Z",
+      "price_text": "88折",
+      "source_key": "1592475571141717",
+      "source_name": "香港燒味關注組",
+      "store": "明壹燒鵝（朗豪坊）"
+    },
     {
       "category": "零售",
       "detail": "今日出位價；數量有限，售完即止，不可與其他優惠同時使用",
@@ -2569,9 +2617,9 @@
       "store": "淘寶"
     }
   ],
-  "lastUpdatedAt": "2026-11-15T09:05:40.419Z",
+  "lastUpdatedAt": "2026-11-15T11:06:27.602Z",
   "sourceTotal": 15,
-  "syncedAt": "2026-11-15T18:58:41+08:00",
-  "todayNew": 0,
-  "totalLive": 160
+  "syncedAt": "2026-11-15T20:59:01+08:00",
+  "todayNew": 3,
+  "totalLive": 163
 }
