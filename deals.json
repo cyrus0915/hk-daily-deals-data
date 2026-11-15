@@ -1,11 +1,11 @@
 {
   "bestDiscountPct": 90,
   "categoryCounts": {
-    "其他": 21,
+    "其他": 19,
     "網購": 9,
-    "超市": 72,
-    "零售": 34,
-    "食肆": 30
+    "超市": 69,
+    "零售": 32,
+    "食肆": 28
   },
   "deals": [
     {
@@ -14,7 +14,7 @@
       "ends_at": "2026-11-18",
       "id": 603,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "日本30日上網卡（35GB）",
       "post_text": "準備飛日本嘅朋友注意！ CUniq 網店出咗日本上網卡全年最低價優惠，計返開平均 $79 就有 30 日 35GB 高速數據，仲要包郵，性價比高到誇張！ ​\n\n📱 CUniq 日本30日上網卡（35GB）快閃優惠 ​超筍價錢：原價 $100/張，買滿 2 張只要 $158（即減 $42），平均每張 $79，仲免運費包郵！ ​優惠碼：JPSIM2 ​優惠期限：去到 11 月 18 日 咋，手快有手慢冇！\n\n ​📋 上網卡重點規格 ​數據用量：35GB 5G/4G 高速數據（用完之後會限速至 256kbps 無限任用，但唔支援網絡分享）\n \n可用日數：啟用後起計 30 日（至第 30 日香港時間 23:59 結束） ​\n超長有效期：買完之後 1 年內 啟用都得，就算出年先飛都完全可以預先入手囤定貨！ ​\n適用裝置：三合一實體 SIM 卡（Nano / Micro / Normal），手機需配備 VoLTE 功能 ​\n（溫馨提示：如果網店買實體卡滿 $111，另外仲有優惠碼 SIM111 可以減 $11，優惠期到 11 月 19 日；不過買兩張用 JPSIM2 減 $42 明顯抵玩好多！",
       "post_url": null,
@@ -46,7 +46,7 @@
       "ends_at": null,
       "id": 601,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "不鏽鋼鍋連玻璃蓋",
       "post_text": "屯門大興惠康俾我見到不鏽鋼鍋連玻璃蓋，$42又真係幾抵，分分鐘可能抵過去拼多多買。",
       "post_url": "https://facebook.com/groups/supermarketoffer/permalink/1676587067254471/",
@@ -55,22 +55,6 @@
       "source_key": "supermarketoffer",
       "source_name": "超市優惠關注組",
       "store": "惠康"
-    },
-    {
-      "category": "食肆",
-      "detail": "聖誕節蛋糕優先預訂",
-      "ends_at": "2026-11-15",
-      "id": 604,
-      "is_ad": false,
-      "is_new": true,
-      "item": "聖誕節蛋糕（Gather In The Glow）",
-      "post_text": "東海堂：【Gather In The Glow  聖誕節蛋糕優先預訂低至86折‼️】至115/11/2026｜著數 - GroupBuya\nhttps://www.groupbuya.com/jetso/557401",
-      "post_url": null,
-      "posted_at": "2026-11-15T09:31:00.000Z",
-      "price_text": "低至86折",
-      "source_key": "threads-search",
-      "source_name": "Threads @groupbuya_com",
-      "store": "東海堂"
     },
     {
       "category": "超市",
@@ -105,22 +89,6 @@
       "store": "明壹燒鵝（朗豪坊）"
     },
     {
-      "category": "零售",
-      "detail": "今日出位價；數量有限，售完即止，不可與其他優惠同時使用",
-      "ends_at": "2026-11-15",
-      "id": 592,
-      "is_ad": false,
-      "is_new": false,
-      "item": "GNC 鈣鎂鉀 + D（120粒）",
-      "post_text": "美心長者晚市75折今日5點起。\n\n今日（11月15日）美心 MX、Food²、美心．港廚下午5點起，晚市堂食或外賣享75折，須出示長者咭、樂悠咭或長者八達通；西九高鐵站除外。11月14至27日另有長者全日8折，優惠不可共用。\n\n萬寧 GNC 鈣鎂鉀 + D（120粒）今日出位價：單件199蚊，買2件298蚊。數量有限，售完即止，不可與其他優惠同時使用。\n\n百佳 PNS 網購 89 款精選食品及日用品買1送1，加2件入購物車即可享用，售完即止。同場本周優惠指定產品買滿399蚊送意美廚煮食鍋配蒸籠，送完即止。\n\n屈臣氏滙豐專區，麗珠蘭超水光面膜 5 片裝158蚊買1送1。首次於屈臣氏 App 下單買滿450蚊，輸入碼 NEWAPP 即減50蚊，至12月31日或售完即止。\n\nKlook 香港康得思酒店 The Place 自助午餐買1送1，兩位502蚊（原價920蚊，人均251蚊），至11月30日；所選日期當天有效，不可取消。\n\n你會先帶長輩去美心，定掃萬寧出位價？\n\n詳細睇 bio",
-      "post_url": "https://www.threads.com/@jetsoshare.hk/post/DfwFyEFjrPR",
-      "posted_at": "2026-11-15T06:02:06.000Z",
-      "price_text": "單件$199，買2件$298",
-      "source_key": "threads-search",
-      "source_name": "Threads @jetsoshare.hk",
-      "store": "萬寧"
-    },
-    {
       "category": "食肆",
       "detail": "經Klook預訂；至11月30日；所選日期當天有效，不可取消",
       "ends_at": "2026-11-30",
@@ -135,22 +103,6 @@
       "source_key": "threads-search",
       "source_name": "Threads @mailaversehk",
       "store": "香港康得思酒店 The Place"
-    },
-    {
-      "category": "其他",
-      "detail": "憑長者咭或身份證經側閘；灣仔首班約11點；今日限定",
-      "ends_at": "2026-11-15",
-      "id": 585,
-      "is_ad": false,
-      "is_new": false,
-      "item": "尖沙咀往返中環／灣仔渡輪（65歲或以上連1位同行）",
-      "post_text": "突發‼️今日長者搭天星連 1 位同行免費！今晚日本環球影城買一送一🎢\n\n⏰ 今日限定（15/11）\n✨ 天星小輪：65 歲或以上憑長者咭或身份證，連 1 位同行經側閘免費搭尖沙咀往返中環／灣仔；灣仔首班約 11 點\n✨ 昂坪 360：標準車廂來回 $30；持有效樂悠咭或 65 歲或以上香港居民，親身到東涌／昂坪纜車站出示正本\n✨ 惠康：門市折實滿 $138，出示並全數用樂悠咭付款 9 折\n✨ 百佳：指定門市首次綁樂悠咭入樂賞會，免消費送 3 個金奇異果，送完即止\n✨ 屈臣氏：樂賞會會員憑樂悠咭於門市滿 $188 減 $18，限 1 次\n\n⏰ 最後今日（15/11）\n✨ Klook：今晚 8 點開搶日本環球影城指定聖誕 1 日券買一送一，限量\n✨ 惠康網店：指定紙巾廁紙滿 $188 享 85 折，先領券\n\n🗓️ 限時優惠\n✨ 7 仔：指定雀巢甜筒 9 件 $68｜指定宮田／樂天等雪糕 5 件 $73（至 17/11，部分款限指定店、售完即止）\n✨ Circle K：OK Stamp It 會員憑券，維他指定奶類飲品 2 件 $10、維記雪米糍 2 件 $14.5（至 18/11，部分店）",
-      "post_url": null,
-      "posted_at": "2026-11-15T02:39:49.000Z",
-      "price_text": "免費",
-      "source_key": "threads-search",
-      "source_name": "Threads @jetsomarkethk",
-      "store": "天星小輪"
     },
     {
       "category": "超市",
@@ -215,38 +167,6 @@
       "source_key": "supermarketoffer",
       "source_name": "超市優惠關注組",
       "store": "惠康"
-    },
-    {
-      "category": "超市",
-      "detail": "快閃2天，網店限定",
-      "ends_at": "2026-11-15",
-      "id": 556,
-      "is_ad": false,
-      "is_new": false,
-      "item": "紙巾廁紙（網店快閃）",
-      "post_text": "惠康超級市場：【快閃2天 網店紙巾廁紙滿$188享85折】至15/11/2026｜著數 - GroupBuya\nhttps://www.groupbuya.com/jetso/557366",
-      "post_url": null,
-      "posted_at": "2026-11-14T09:03:21.000Z",
-      "price_text": "滿$188享85折",
-      "source_key": "threads-search",
-      "source_name": "Threads @groupbuya_com",
-      "store": "惠康超級市場"
-    },
-    {
-      "category": "超市",
-      "detail": "快閃2天，網店限定",
-      "ends_at": "2026-11-15",
-      "id": 564,
-      "is_ad": false,
-      "is_new": false,
-      "item": "網店紙巾、廁紙",
-      "post_text": "惠康超級市場：【快閃2天 網店紙巾廁紙滿$188享85折】至15/11/2026｜著數 - GroupBuya | https://www.groupbuya.com/jetso/557366",
-      "post_url": "https://www.threads.com/@groupbuya_com/post/Dft1vm-G-ik",
-      "posted_at": "2026-11-14T09:03:21.000Z",
-      "price_text": "滿$188享85折",
-      "source_key": "threads-search",
-      "source_name": "Threads @groupbuya_com",
-      "store": "惠康超級市場"
     },
     {
       "category": "其他",
@@ -969,22 +889,6 @@
       "store": "中國移動香港"
     },
     {
-      "category": "其他",
-      "detail": "滿10人全團75折；滿20人7折+送額外1張修圖；WhatsApp Group接龍報名",
-      "ends_at": "2026-11-15",
-      "id": 353,
-      "is_ad": true,
-      "is_new": false,
-      "item": "專業形象相（LinkedIn／搵工相）團購",
-      "post_text": "【專業相團購 低至7折 | $200起】\n🧳 搵工LinkedIn｜專業形象先至贏\n\n🎉報名即享8折!\n\n🎉已成團！\n\n入Group報名即享8折\n\n滿10人全團享75折\n\n滿20人：7折 + 送額外1張修圖（最抵！）\n\n*⏳11月15日22:00或夠30人截團*\n\n👉🏻立即加入WhatsApp Group接龍報名！\n\n🔗 https://chat.whatsapp.com/Fuyp5kuV4abGFaGVOZ2mVq\n\n🔗靚靚場景一覽：https://www.littlestarstudiohk.com/scene\n\n或直接WhatsApp：6113 4890\n\n📸 IG相冊參考：@little_star_studio_hk",
-      "post_url": "https://facebook.com/groups/1011675959766407/permalink/1828527511414577/",
-      "posted_at": "2026-11-12T07:43:22.000Z",
-      "price_text": "低至7折，$200起（報名即享8折）",
-      "source_key": "1011675959766407",
-      "source_name": "減價優惠情報組 JetsoSuper",
-      "store": "Little Star Studio"
-    },
-    {
       "category": "超市",
       "detail": "屯門碼頭分店",
       "ends_at": null,
@@ -1207,22 +1111,6 @@
       "source_key": "369987237960476",
       "source_name": "超市關注組",
       "store": "7-11"
-    },
-    {
-      "category": "超市",
-      "detail": "GroupBuya轉載",
-      "ends_at": "2026-11-15",
-      "id": 339,
-      "is_ad": false,
-      "is_new": false,
-      "item": "急凍產品",
-      "post_text": "759 阿信屋：【急凍產品買滿 $118 即享 9 折】15/11/2026｜著數 - GroupBuya\nhttps://www.groupbuya.com/jetso/557286",
-      "post_url": null,
-      "posted_at": "2026-11-12T02:10:55.000Z",
-      "price_text": "買滿$118即享9折",
-      "source_key": "threads-search",
-      "source_name": "Threads @groupbuya_com",
-      "store": "759阿信屋"
     },
     {
       "category": "零售",
@@ -1577,22 +1465,6 @@
       "store": "AlipayHK（高德打車）"
     },
     {
-      "category": "食肆",
-      "detail": "iHerb雙11碼至12/11：全場74折先入OJG1970再入D11MEGA；首購7折先入OJG1970再入WELCOME7",
-      "ends_at": "2026-11-15",
-      "id": 233,
-      "is_ad": false,
-      "is_new": false,
-      "item": "雙11餐飲優惠精選：譚仔$11加餸、大家樂滿$50減$11、大快活下午茶$11、7-11咖啡$11、Häagen-Dazs雙球買一送一、西樹泡芙$11、iHerb雙11碼",
-      "post_text": "2026-11-11雙11優惠精選：譚仔$11加餸（雞翼／皮蛋／豬耳／木耳，至15/11）；7-11三款咖啡$11（至13/11）；Häagen-Dazs雙球雪糕買一送一；大家樂滿$50減$11、下午茶雞翼＋炸髀$22（至13/11）；大快活下午茶餐$11／2款小食（只限今日）；西樹泡芙藍莓／芒果味$11（最後今日）；Sensory Zero外賣咖啡$12（只限今日）。另iHerb雙11優惠碼最後召集（至12/11）：全場74折先輸入OJG1970再輸入D11MEGA；首購7折先輸入OJG1970再輸入WELCOME7。",
-      "post_url": "https://www.threads.com/@jetso.everyday/post/DflRHNoGYwV",
-      "posted_at": "2026-11-11T01:09:21.000Z",
-      "price_text": "譚仔$11加餸（至15/11）；大家樂滿$50減$11、下午茶$22（至13/11）；大快活下午茶餐$11／2款小食（只限11/11）；7-11三款咖啡$11（至13/11）；西樹泡芙$11（只限11/11）；Sensory Zero外賣咖啡$12（只限11/11）",
-      "source_key": "threads-search",
-      "source_name": "Threads @jetso.everyday",
-      "store": "多間連鎖食肆"
-    },
-    {
       "category": "其他",
       "detail": "開戶記得填推薦碼：8IKHA5（填咗先有回贈同解鎖20%年利率）",
       "ends_at": "2026-11-30",
@@ -1735,22 +1607,6 @@
       "source_key": "threads-search",
       "source_name": "Threads @hanyinhonghk",
       "store": "韓印紅"
-    },
-    {
-      "category": "零售",
-      "detail": "雙11第二週優惠；買Set送大片暗瘡貼；全店免運；每晚11點限量$11搶皇牌",
-      "ends_at": "2026-11-15",
-      "id": 203,
-      "is_ad": true,
-      "is_new": false,
-      "item": "「7日爆痘急救計劃」套裝（速效祛痘消炎液、暗瘡貼）",
-      "post_text": "突然爆痘真係會好想死……呢套真係我嘅爛面救星🫠\n成個「7日爆痘急救計劃」： \n 🌿 速效祛痘消炎液：點落去集中對付紅腫暗瘡\n🌿 暗瘡貼（小型＋中型）：溫和吸走油脂白膿\n🎁 買 Set 仲送埋大片暗瘡貼！ \n\n正好依加雙11第二週（11/10–15）有超癲優惠：\n✨ 全店直接做「單品半價 50% OFF」 \n✨ 滿 $488 減 $30｜滿 $688 減 $68 \n✨ 重點係：全店免運！ \n （每晚 11 點仲有限量 $11 搶皇牌，記得較定鬧鐘🧏🏻‍♀️） \n\n🔗 趁半價入手 Set 裝最抵：essl.hk",
-      "post_url": "https://www.threads.com/@essl.hk/post/Dfjv9tUgAcc",
-      "posted_at": "2026-11-10T11:00:27.000Z",
-      "price_text": "單品半價 50% OFF；滿$488減$30、滿$688減$68",
-      "source_key": "threads-search",
-      "source_name": "Threads @essl.hk",
-      "store": "essl.hk"
     },
     {
       "category": "超市",
@@ -2665,9 +2521,9 @@
       "store": "淘寶"
     }
   ],
-  "lastUpdatedAt": "2026-11-15T13:09:03.804Z",
+  "lastUpdatedAt": "2026-11-15T15:07:43.284Z",
   "sourceTotal": 15,
-  "syncedAt": "2026-11-15T22:59:21+08:00",
-  "todayNew": 3,
-  "totalLive": 166
+  "syncedAt": "2026-11-16T00:58:51+08:00",
+  "todayNew": 0,
+  "totalLive": 157
 }
