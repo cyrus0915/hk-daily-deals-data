@@ -3,7 +3,7 @@
   "categoryCounts": {
     "其他": 21,
     "網購": 11,
-    "超市": 81,
+    "超市": 82,
     "零售": 33,
     "食肆": 35
   },
@@ -14,7 +14,7 @@
       "ends_at": "2026-12-07",
       "id": 647,
       "is_ad": true,
-      "is_new": true,
+      "is_new": false,
       "item": "餅卡禮券（奇華餅家、東海堂等）",
       "post_text": "🎫【免費送2人入場飛｜12月香港結婚節 GIVEAWAY】💍\n\n12月11–13日，過百婚嫁品牌齊集灣仔會展！留言❤️就可以收到登記連結📩\n\n🍰 逾15個人氣餅卡禮券品牌｜優惠低至6折\n奇華餅家、東海堂、華御結、Lady M、GODIVA、agnès b.等人氣品牌，加埋榮華同步登場，中西式禮餅一次過揀！\n\n🎁 雙重消費大抽獎\n符合指定消費條件，即可參加即抽即中及‘Happy Couple’台上大抽獎！台上大抽獎獎品包括Apple iPhone Duo、iPhone 18 Pro Max、總值HK$20,000旅遊現金禮券及Dyson Spot+Scrub™️ Ai洗地吸塵機械人等！\n\n💗 首日加碼送Chiikawa\n12月11日Happy Friday參加雙重消費大抽獎，額外送人氣Chiikawa 30cm毛公仔！數量有限，先到先得，送完即止。\n———————————————————————————\n🎫 免費領取2人入場飛\n🤍 Follow @hkweddingfair\n🤍 Like 呢個Post\n🤍 留言❤️ 或 DM❤️\n⏰ 活動截止：由即日起至12月7日晚上11:59",
       "post_url": null,
@@ -30,7 +30,7 @@
       "ends_at": null,
       "id": 648,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "海鮮火鍋任食",
       "post_text": "11月16日 免費任食桶，6位即送活魚刺身，長者198，11月生日398半價。\n凡惠顧2.5小時 6位送活魚刺身，免費任食桶蠔  19:00開始，長者198，11月生日398半\n每日11點30分\n78  午市精選火鍋套餐\n668  4位  90分鐘任食海鮮火鍋（7:00前離坐） 不包括餐前頭盤\n298/位 3小時 😏7:00前離座 （包括餐前送盤）\n198/位 90分鐘任食海鮮火鍋（不包括餐前頭盤）😎\n398/位  2.5小時 😏\n凡惠顧2.5小時套餐即\n送龍蝦海鮮拼盤😍😍\n送象拔蚌身拼盤😘\n任食安格斯牛肉😎\n送時令燉湯😏\n免費任食多款雞煲😏\n特色甜品😎\n五歲或以下全日免費😏😏\n每日七點前離座（早鳥優惠）\n正價時段😎\n逢星期日至星期四，晚上九點後，全單八五折😏\n假期前夕及假日除外\n本月生日或長者，人頭費\n半價優惠😏\n二選一。🙃🙃🙃\n優惠不能同時使用，阿爺八鮮鍋\n保留最終決定權及解釋權\n#尖沙咀 #香港美食 #海鮮火鍋任食 #雞煲刺身#",
       "post_url": null,
@@ -46,7 +46,7 @@
       "ends_at": null,
       "id": 640,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "Anson Lo 高露潔 神之美白限量版立體卡",
       "post_text": "谷友報料\n惠康 (大埔廣場）\nAnson Lo 高露潔 神之美白 限量版立體卡\n原價$299 - - > 清貨價 $ 1 😱😱😱",
       "post_url": "https://facebook.com/groups/supermarketoffer/permalink/1677429013836943/",
@@ -62,7 +62,7 @@
       "ends_at": null,
       "id": 642,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "自家製品牌麵",
       "post_text": "啱啱行過屯門AEON，見佢自家製品牌嘅麵做緊特價，最平嘅都賣緊$6，大家有冇試過呢幾隻麵？",
       "post_url": "https://facebook.com/groups/369987237960476/permalink/1457859225839933/",
@@ -71,6 +71,22 @@
       "source_key": "369987237960476",
       "source_name": "超市關注組",
       "store": "AEON（屯門）"
+    },
+    {
+      "category": "超市",
+      "detail": "屯門分店",
+      "ends_at": null,
+      "id": 649,
+      "is_ad": false,
+      "is_new": true,
+      "item": "自家製品牌麵",
+      "post_text": "啱啱行過屯門AEON，見佢自家製品牌嘅麵做緊特價，最平嘅都賣緊$6，大家有冇試過呢幾隻麵？",
+      "post_url": "https://facebook.com/groups/supermarketoffer/permalink/1677422927170885/",
+      "posted_at": "2026-11-16T06:22:42.000Z",
+      "price_text": "特價，最平$6",
+      "source_key": "supermarketoffer",
+      "source_name": "超市優惠關注組",
+      "store": "AEON"
     },
     {
       "category": "超市",
@@ -286,7 +302,7 @@
       "ends_at": null,
       "id": 641,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "九個杯麵連扭蛋機袋",
       "post_text": "$78 ￼有九個杯麵，同埋大大個扭蛋機袋￼\n\n荃灣大鴻輝惠康",
       "post_url": "https://facebook.com/groups/supermarketoffer/permalink/1677284117184766/",
@@ -2905,9 +2921,9 @@
       "store": "淘寶"
     }
   ],
-  "lastUpdatedAt": "2026-11-16T07:11:47.311Z",
+  "lastUpdatedAt": "2026-11-16T09:06:16.922Z",
   "sourceTotal": 15,
-  "syncedAt": "2026-11-16T16:59:00+08:00",
-  "todayNew": 5,
-  "totalLive": 181
+  "syncedAt": "2026-11-16T18:58:41+08:00",
+  "todayNew": 1,
+  "totalLive": 182
 }
