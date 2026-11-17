@@ -8,10 +8,10 @@
     "食肆": 46
   },
   "bestDiscountPct": 90,
-  "todayNew": 2,
+  "todayNew": 0,
   "sourceTotal": 15,
-  "lastUpdatedAt": "2026-11-17T01:11:53.606Z",
-  "syncedAt": "2026-11-17T10:59:13+08:00",
+  "lastUpdatedAt": "2026-11-17T03:07:06.478Z",
+  "syncedAt": "2026-11-17T13:02:09+08:00",
   "deals": [
     {
       "category": "其他",
@@ -19,7 +19,7 @@
       "ends_at": null,
       "id": 725,
       "is_ad": true,
-      "is_new": true,
+      "is_new": false,
       "item": "日本8日上網卡（11GB高速數據）",
       "post_text": "📣 HK$20買到日本8日上網卡，唔係睇錯價，係真嘅。\n\n中國聯通8日上網卡，11GB高速數據，東京用到大阪，查地圖、搵餐廳、打卡出post都夠用，8日行程啱啱好。\n\n⚠️ 數量有限，先用先得。搶唔到都仲有HK$100／4張優惠，一樣抵。\n\n去 HopeGoo App 搜尋欄輸入【LUCKYCY】搵到",
       "post_url": null,
@@ -35,7 +35,7 @@
       "ends_at": null,
       "id": 726,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "Call車服務",
       "post_text": "快D搶呀！4公里都係8蚊咋😍勁抵\n\n優惠券：80GD\nAlipayHK Call車 1折 👍🏻\n限量名額搶完即止 😍😍😍",
       "post_url": null,
