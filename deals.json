@@ -1,17 +1,12 @@
 {
-  "totalLive": 248,
+  "bestDiscountPct": 90,
   "categoryCounts": {
     "其他": 34,
     "網購": 16,
-    "超市": 96,
+    "超市": 97,
     "零售": 42,
     "食肆": 60
   },
-  "bestDiscountPct": 90,
-  "todayNew": 6,
-  "sourceTotal": 15,
-  "lastUpdatedAt": "2026-11-17T13:23:20.348Z",
-  "syncedAt": "2026-11-18T00:59:40+08:00",
   "deals": [
     {
       "category": "食肆",
@@ -19,7 +14,7 @@
       "ends_at": null,
       "id": 781,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "冬日星語下午茶（2位）",
       "post_text": "GODIVA 朱古力落足料做足一套下午茶，仲要有優惠碼減到岩岩好🤌🏼\nGREEN x GODIVA 冬日星語下午茶，2位 $703（原價 $760），輸入碼之後實收平均 $352/位\n碼係 BFICON30T，無門檻直接減 $30；PayMe 畀錢滿 $500 仲有多張 263PAY30 減 $30\n聽日12點開搶，留言有 link",
       "post_url": "https://www.threads.com/@hkplayandtravel/post/Df1-5N9jFSK",
@@ -35,7 +30,7 @@
       "ends_at": null,
       "id": 780,
       "is_ad": true,
-      "is_new": true,
+      "is_new": false,
       "item": "YSL SKIN AFFAIR Cushion Foundation等Black Friday精選化妝品",
       "post_text": "Lookfantastic Black Friday部份貨品低至半價\n\n大部分貨品有折上折\n⭐️新Account用我refer code : POCKY-RF，首單買滿£25，即減£10(我亦有£10回贈)\n\n精選幾款優惠\n1. YSL SKIN AFFAIR Cushion Foundation 原價£52，折上折後£26.4\n\n2. Estée Lauder Double Wear Longwear Matte Foundation SPF 10，原價£39.5，折上折後£17.65\n\n3.Olaplex 呢個品牌好正，不過平時貴，宜家特價可以試吓，套裝包括洗頭水、護髮素各250ml+Olaplex 3 repair 50ml，原價£56，折上折£29.2\n\n4. Estée Lauder經典精華買30ml送30ml，原價£111，折上折£45.5\n\n5.Lancôme 經典小黑瓶精華20ml+晚霜15ml+眼霜5ml，原價£51（價值£88），折上折£25.7\n\n太多貨品，不能盡錄，有興趣留言，等我幫你睇吓有冇折上折優惠，或者直接用我嘅refer code開Account，慢慢睇",
       "post_url": "https://www.threads.com/@pockyuk/post/Df1-LnPjj_G",
@@ -51,7 +46,7 @@
       "ends_at": "2026-11-18",
       "id": 779,
       "is_ad": true,
-      "is_new": true,
+      "is_new": false,
       "item": "長袖上衣（카울 레이스 롱슬리브）",
       "post_text": "📍原價$8xx → 減價$325 ˚⋆｡♡˚\n\n🫯illigo有Black Friday🌪️\n但搵到重平過官網Black Firday🙈\n限時到聽日嫁咋\n🏷️ 카울 레이스 롱슬리브 \n\n🎨顏色選擇：Black/White/Grey🫧\n🖇️Size：Free Size✔️\n\n📦順豐到付，韓國直送，放心入手！\n\n入group 睇實新貨→ https://chat.whatsapp.com/BowCBKmzlq1I8f3PMAobTS?mode\n\n直接落單搵→ https://wa.me/85261352605\n\nFanpage更新一樣快✨https://www.facebook.com/share/1KDMRhw2Ez/?mibextid\n\n#韓國代購 #韓系穿撘  #限時減價 #韓國直送",
       "post_url": "https://www.threads.com/@xshopping_dayx/post/Df19aNEHcL-",
@@ -67,7 +62,7 @@
       "ends_at": null,
       "id": 777,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "明治高蛋白朱古力奶",
       "post_text": "沙田禾輋惠康隻明治高蛋白朱奶，做緊每支12蚊優惠，有興趣嘅師兄可以去買下😋😋",
       "post_url": "https://www.threads.com/@ming6_987/post/Df16pxFIy-B",
@@ -83,7 +78,7 @@
       "ends_at": null,
       "id": 774,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "套裝餐具或散件餐具",
       "post_text": "荃灣千色2樓康寧冬日廚具巡禮,\n套裝餐具或散件餐具低至半價\n唔好錯過啦.",
       "post_url": "https://facebook.com/groups/1011675959766407/permalink/1833317260935602/",
@@ -515,7 +510,7 @@
       "ends_at": null,
       "id": 778,
       "is_ad": true,
-      "is_new": true,
+      "is_new": false,
       "item": "Corsair自組水冷配件（CPU水冷頭／水冷排／水冷泵等）",
       "post_text": "🔥 Corsair 水冷配件清貨反應熱烈！ 🔥\n多謝大家支持，呢幾日真係好多師兄專登落嚟掃貨 😆\nCorsair 自組水冷配件 $20/件 反應非常熱烈，現場唔少款式都俾人快手拎走咗！\n想砌 Custom Loop、執靚部機，或者買定 spare 零件看門口，而家真係要 有買趁手 啦！🏃‍♂️💨\n因為清貨產品數量有限，賣完就真係冇㗎喇！\n📦 現場仲有機會搵到：\n🔹 CPU 水冷頭\n🔹 水冷排\n🔹 水冷泵 / 水箱\n🔹 各類水冷接頭 \n💥 全部劃一 $20 / 件\n💥 數量有限，售完即止\n💥 款式以現場實物存貨為準\n想執平貨、尋寶嘅師兄，真係要快啲落嚟睇下！\n遲啲嚟，可能真係連揀都冇得揀 😎\n📍 Centralfield 中田數碼\n深水埗高登電腦中心 1 樓 16 號\n📲 WhatsApp 查詢\n91317468 / 91318313\n#Corsair #自組水冷 #CustomLoop #水冷清貨 #清貨優惠 #砌機 #電腦硬件 #深水埗 #高登電腦中心 #中田數碼",
       "post_url": "https://www.threads.com/@centralfield_shop/post/Df1JPiCoFBi",
@@ -524,6 +519,22 @@
       "source_key": "threads-search",
       "source_name": "Threads @centralfield_shop",
       "store": "Centralfield 中田數碼"
+    },
+    {
+      "category": "超市",
+      "detail": "平均一碟唔使$50，牛頸脊、吊龍心、牛挽手、肉眼邊、五花趾等熱門部位有得揀；數量有限",
+      "ends_at": null,
+      "id": 783,
+      "is_ad": false,
+      "is_new": true,
+      "item": "騸牯牛任選6碟100g",
+      "post_text": "🐮 騸牯牛控留意！\nCity'super 騸牯牛而家：\n\n🔥 任選6碟100g只需 $298\n\n平均一碟唔使 $50， 牛頸脊，吊龍心，牛挽手，肉眼邊，五花趾等熱門部位都有得揀😋\n\n數量有限，見到可以去睇睇👀",
+      "post_url": "https://facebook.com/groups/1011675959766407/permalink/1833059207628074/",
+      "posted_at": "2026-11-17T05:07:08.000Z",
+      "price_text": "$298",
+      "source_key": "1011675959766407",
+      "source_name": "減價優惠情報組 JetsoSuper",
+      "store": "City'super"
     },
     {
       "category": "其他",
@@ -3981,5 +3992,10 @@
       "source_name": "Threads @comparetiger",
       "store": "淘寶"
     }
-  ]
+  ],
+  "lastUpdatedAt": "2026-11-17T17:07:50.324Z",
+  "sourceTotal": 15,
+  "syncedAt": "2026-11-18T03:00:14+08:00",
+  "todayNew": 1,
+  "totalLive": 249
 }
