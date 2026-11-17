@@ -1,17 +1,17 @@
 {
-  "totalLive": 251,
+  "totalLive": 248,
   "categoryCounts": {
     "其他": 34,
     "網購": 16,
-    "超市": 97,
+    "超市": 96,
     "零售": 42,
-    "食肆": 62
+    "食肆": 60
   },
   "bestDiscountPct": 90,
-  "todayNew": 7,
+  "todayNew": 6,
   "sourceTotal": 15,
   "lastUpdatedAt": "2026-11-17T13:23:20.348Z",
-  "syncedAt": "2026-11-17T22:59:48+08:00",
+  "syncedAt": "2026-11-18T00:59:40+08:00",
   "deals": [
     {
       "category": "食肆",
@@ -60,22 +60,6 @@
       "source_key": "threads-search",
       "source_name": "Threads @xshopping_dayx",
       "store": "illigo"
-    },
-    {
-      "category": "超市",
-      "detail": "屯門Aeon；傍晚時段特價",
-      "ends_at": "2026-11-17",
-      "id": 775,
-      "is_ad": false,
-      "is_new": true,
-      "item": "梅菜扣肉",
-      "post_text": "🔥【屯門•Aeon】🫵💢👀》傍晚時段又特價/淨梅菜扣肉＄53❌️＄38✅️😝✌️",
-      "post_url": "https://facebook.com/groups/ricewith2sides/permalink/4631563470425136/",
-      "posted_at": "2026-11-17T12:27:39.000Z",
-      "price_text": "$38（原價$53）",
-      "source_key": "2808948529353315",
-      "source_name": "香港兩餸飯關注組",
-      "store": "Aeon"
     },
     {
       "category": "超市",
@@ -572,38 +556,6 @@
       "source_key": "499964309314902",
       "source_name": "超市優惠關注組（Loee）",
       "store": "City'super"
-    },
-    {
-      "category": "食肆",
-      "detail": "經KKday，今日12點開搶；同日另有凱悅軒點心放題買二送二、港登 Cafe TOO 自助餐買二送二、陶源酒家$398一位2小時任食大閘蟹",
-      "ends_at": "2026-11-17",
-      "id": 732,
-      "is_ad": false,
-      "is_new": false,
-      "item": "自助餐買二送二",
-      "post_text": "今日KKday 12點有尖沙咀凱悅自助餐買二送二，隔離凱悅軒都有點心放題二送二，3點有港登Cafe TOO自助餐買二送二，估唔唔到連港登都出優惠，6點有陶源酒家$398一位2小時任食大即蟹🫡",
-      "post_url": "https://facebook.com/groups/186837112479756/permalink/1639938913836228/",
-      "posted_at": "2026-11-17T04:03:02.000Z",
-      "price_text": "買二送二",
-      "source_key": "186837112479756",
-      "source_name": "自助餐/放題/飲食/酒店優惠情報分享",
-      "store": "尖沙咀凱悅"
-    },
-    {
-      "category": "食肆",
-      "detail": "經Klook，今日9點開搶",
-      "ends_at": "2026-11-17",
-      "id": 733,
-      "is_ad": false,
-      "is_new": false,
-      "item": "自助餐買一送一",
-      "post_text": "今日klook 9點有九登自助餐買一送一同其他未與完優惠🫡",
-      "post_url": "https://facebook.com/groups/186837112479756/permalink/1639936860503100/",
-      "posted_at": "2026-11-17T03:59:00.000Z",
-      "price_text": "買一送一",
-      "source_key": "186837112479756",
-      "source_name": "自助餐/放題/飲食/酒店優惠情報分享",
-      "store": "九登"
     },
     {
       "category": "超市",
