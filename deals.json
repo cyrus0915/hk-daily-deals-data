@@ -526,7 +526,7 @@
       "ends_at": null,
       "id": 783,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "騸牯牛任選6碟100g",
       "post_text": "🐮 騸牯牛控留意！\nCity'super 騸牯牛而家：\n\n🔥 任選6碟100g只需 $298\n\n平均一碟唔使 $50， 牛頸脊，吊龍心，牛挽手，肉眼邊，五花趾等熱門部位都有得揀😋\n\n數量有限，見到可以去睇睇👀",
       "post_url": "https://facebook.com/groups/1011675959766407/permalink/1833059207628074/",
@@ -3993,9 +3993,9 @@
       "store": "淘寶"
     }
   ],
-  "lastUpdatedAt": "2026-11-17T17:07:50.324Z",
+  "lastUpdatedAt": "2026-11-17T19:06:25.255Z",
   "sourceTotal": 15,
-  "syncedAt": "2026-11-18T03:00:14+08:00",
-  "todayNew": 1,
+  "syncedAt": "2026-11-18T05:00:06+08:00",
+  "todayNew": 0,
   "totalLive": 249
 }
