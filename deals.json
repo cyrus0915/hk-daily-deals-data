@@ -1,17 +1,17 @@
 {
-  "totalLive": 459,
+  "totalLive": 463,
   "categoryCounts": {
-    "其他": 84,
+    "其他": 85,
     "網購": 24,
-    "超市": 154,
-    "零售": 103,
+    "超市": 155,
+    "零售": 105,
     "食肆": 94
   },
   "bestDiscountPct": 90,
-  "todayNew": 1,
+  "todayNew": 4,
   "sourceTotal": 15,
-  "lastUpdatedAt": "2026-11-20T19:09:51.548Z",
-  "syncedAt": "2026-11-21T05:01:42+08:00",
+  "lastUpdatedAt": "2026-11-20T21:10:37.741Z",
+  "syncedAt": "2026-11-21T07:09:30+08:00",
   "deals": [
     {
       "category": "零售",
@@ -19,7 +19,7 @@
       "ends_at": null,
       "id": 1277,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "OUTLET球鞋：AJ、LUKA 5、BOOK 2、G.T.CUT 4、AJ 3、G.T.FUTURE、AJ 6、A’ONE",
       "post_text": "繼續OUTLET減價系列‼️今日東涌CITYGATE的NIKE HK OUTLET買3件或以上貨品6折優惠，全場鞋款再9折優惠，鞋款會最多54折，兼且有一口價買而不用夾單的鞋款出現😃👟有AJ 40 折後HK$777，LUKA 5黑白色和有BOOK 2配色直接一件買HK$349，如果夾到3件有LUKA 5配色低至HK$323左右，G.T.CUT 4折後低至HK$485左右，仍有PAIGE BUECKERS PE配色上架，AJ 3 “BRAZIL” 折後HK$733左右，G.T.FUTURE折後HK$518，AJ 6折後HK$625左右，A’ONE HK$299，其它大家可參看照片，整體感覺很多抵買👍🏻感謝好友分享相片🙏🏻📸👟想優先準確掌握最新的球鞋、足球球衣、NBA和NBA球衣消息去入手，記得SHARE、LIKE 和FOLLOW 追蹤本FACEBOOK專頁和IG啦‼️",
       "post_url": null,
@@ -108,6 +108,22 @@
       "source_key": "threads-search",
       "source_name": "Threads @ha_ha_tam",
       "store": "灣仔合和百佳"
+    },
+    {
+      "category": "零售",
+      "detail": "日本直送；尺寸140/150/160；26/11 5pm截單",
+      "ends_at": "2026-11-26",
+      "id": 1289,
+      "is_ad": true,
+      "is_new": true,
+      "item": "MLB暖和連帽衫（童裝）",
+      "post_text": "日本直送\n⏰限時減價⏰\n🔼只做幾天🔼\n美國職棒大聯盟童裝\nMLB的暖和連帽衫登場！\n而家日本減價非常抵着買兩件低至$1xx\n男女可穿兩個色都咁醒目\n小編自己都買咗件🤭\n\n🛒 https://4ccakehouse.online/i/WTCXxHgAA\n\n背面刷毛（毛絨）是質地柔軟的材質，\n輕盈溫暖，柔軟的穿著舒適是其特徵。\n很適合冬天的單品！\n\n兜帽上有城市名，袖子上有球團標誌徽章，\n左胸有英文字母設計的刺繡。\n還裝飾了有衝擊力的背面印花。\n\n只有兩個色，因為有一個色數量不多，所以淨係做兩個顏色\n尺寸140/150/160\n📆26/11 5pm\n📆12月中後",
+      "post_url": null,
+      "posted_at": "2026-11-20T15:17:07.000Z",
+      "price_text": "買兩件低至$1xx",
+      "source_key": "threads-search",
+      "source_name": "Threads @4ccakehousegroupbuy",
+      "store": "4ccakehouse"
     },
     {
       "category": "食肆",
@@ -431,6 +447,22 @@
     },
     {
       "category": "超市",
+      "detail": null,
+      "ends_at": "2026-11-22",
+      "id": 1286,
+      "is_ad": false,
+      "is_new": true,
+      "item": "檸檬",
+      "post_text": "今日發現超抵優惠🤩\n百佳 檸檬只係一蚊一隻！\n忍唔住一次過掃左20粒 \n展開健康生活 沖蜜糖檸檬水黎飲😋\n優惠日期 去到11月22號就完",
+      "post_url": null,
+      "posted_at": "2026-11-20T10:59:34.000Z",
+      "price_text": "$1一隻",
+      "source_key": "threads-search",
+      "source_name": "Threads @happy.boobee",
+      "store": "百佳"
+    },
+    {
+      "category": "超市",
       "detail": "優惠去到11月22號",
       "ends_at": "2026-11-22",
       "id": 1247,
@@ -511,6 +543,22 @@
     },
     {
       "category": "其他",
+      "detail": "只適用於百佳購買SoSIM；開卡後30日內輸入推薦碼；另送30日/100GB社交數據、歡樂通宵及10,000分鐘通話等",
+      "ends_at": "2030-12-31",
+      "id": 1287,
+      "is_ad": true,
+      "is_new": true,
+      "item": "SoSim儲值卡",
+      "post_text": "抵用，香港儲值卡/電話卡🔥SoSim card推薦碼/優惠碼碼，免費送1個月月費或7天外遊數據；SoSim card  Promo code/Referral code \n\n*優惠只適用於百佳購買SoSIM*\n支持攜號轉台，每月50G，月費好平。仲可𨍭做7天外遊數據和eSIM卡。\n\n(啟用後於SoSIM App中輸入)]\n優惠碼： S3LL0Y0  Promo code: S3LL0Y0 \n\n使用優惠碼 :\n在百佳購買SoSIM，請於開卡後30日內輸入我嘅優惠碼／推薦碼「S3LL0Y0」。\n你可以獲得👇\n（1）$33現金回贈，即係相等於免費用首月！\n（2） ［推薦朋友獎賞]30日/100GB 社交數據 及 歡樂通宵及10,000分鐘通話\n（3）免費試用1個月附屬卡\n（4）3張外遊數據67折券\n系統會在你輸入我嘅推薦碼後直接將(1)(2)(3)(4)項的優惠存入到「我的優惠券」。\n\n如何使用獎賞：\n請於「獎賞」 -> 「我的優惠券」點選COUPON圖片兌換獎賞優惠券。\n\n優惠有效期至2030年12月31日",
+      "post_url": null,
+      "posted_at": "2026-11-20T10:12:48.000Z",
+      "price_text": "輸入推薦碼S3LL0Y0送$33現金回贈（免首月）",
+      "source_key": "threads-search",
+      "source_name": "Threads @grace_959818",
+      "store": "SoSim"
+    },
+    {
+      "category": "其他",
       "detail": "百佳購買SoSIM，開卡後30日內於SoSIM App輸入推薦碼S3LL0Y0；另送30日/100GB社交數據等",
       "ends_at": "2030-12-31",
       "id": 1219,
@@ -556,6 +604,22 @@
       "source_key": "threads-search",
       "source_name": "Threads @hk.saving.lab",
       "store": "HKTVmall"
+    },
+    {
+      "category": "零售",
+      "detail": "加購千層幽靈手串先享加購價；葵涌廣場2樓C139門市",
+      "ends_at": null,
+      "id": 1288,
+      "is_ad": true,
+      "is_new": true,
+      "item": "白蘭花精油",
+      "post_text": "白蘭花精油 + 千層幽靈手串 加購優惠\n原價💰 5ml $280  10ml $380\n加購價💰 5ml $228 10ml $298\n\n功效：\n🧴幫助抗炎，促進免疫、神經系統和呼吸道健康\n🧴舒緩壓力、焦慮、憂鬱，提升情緒，改善睡眠\n🧴對皮膚有益，抗炎，減少皮膚刺激\n🧴有利血液運行循環，舒緩肌肉，減少痙攣、頭痛、關節痛\n🧴改善呼吸道問題\n🧴可用擴香方式達到抗菌、空氣清新和驅蟲\n\n💈營業時間\n葵廣門市：1200-2200\n年中無休為各晶友服務\n\n🕍葵廣門市地址🕍：\n葵涌廣場2樓C139(2)號鋪《地梯上兩層天井當眼位》\n交通：\n🚌葵芳地鐵站E出口（往荃灣方向天橋）\n🚌葵芳地鐵站D出口（地面過馬路）\n\n我地可能係世界上定價最平貨最多最齊既水晶實體店\n\n免責聲明：\n風水擺設水晶能量的意見和資訊參考並非精密科學，僅作參考之用啊\n信則有不信則冇\n心誠則靈",
+      "post_url": null,
+      "posted_at": "2026-11-20T09:27:00.000Z",
+      "price_text": "加購價5ml $228／10ml $298（原價$280／$380）",
+      "source_key": "threads-search",
+      "source_name": "Threads @konggirlcrystal",
+      "store": "konggirlcrystal（葵涌廣場）"
     },
     {
       "category": "零售",
