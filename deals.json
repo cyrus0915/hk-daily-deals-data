@@ -1,17 +1,17 @@
 {
-  "totalLive": 492,
+  "totalLive": 489,
   "categoryCounts": {
     "其他": 89,
     "網購": 27,
-    "超市": 162,
-    "零售": 118,
-    "食肆": 96
+    "超市": 161,
+    "零售": 117,
+    "食肆": 95
   },
   "bestDiscountPct": 90,
-  "todayNew": 1,
+  "todayNew": 0,
   "sourceTotal": 15,
-  "lastUpdatedAt": "2026-11-21T11:05:06.437Z",
-  "syncedAt": "2026-11-22T01:02:06+08:00",
+  "lastUpdatedAt": "2026-11-21T17:06:49.945Z",
+  "syncedAt": "2026-11-22T03:03:01+08:00",
   "deals": [
     {
       "category": "零售",
@@ -19,7 +19,7 @@
       "ends_at": null,
       "id": 1356,
       "is_ad": true,
-      "is_new": true,
+      "is_new": false,
       "item": "精選T恤（CHOCOOLATE、FINGERCROXX、IZZUE、FIVE CM）",
       "post_text": "💥 i.t 超抵價精選T恤 | 低至$79⚡\n✨$79 / $89 / $99 專區任你揀！\n\n人氣品牌包括:CHOCOOLATE、FINGERCROXX、IZZUE及FIVE CM😍😍😍​\n\n快啲tag朋友一齊夾單掃貨啦～🚀\n\n💥 不定時會加新貨品，密切留意\n\n數量有限、售完即止！\n\n🚚 可郵寄或於門市取貨\n\n📦SHOP NOW👇🏻\n\n http://hk.iteshop.com/sit/all/graphic-tee-collection?tscode=affhr_hk10070967&utm_source=retail&utm_medium=itesell_FastTSS26_6189\n\n#ITeSHOP #iTeShop730 #折扣 #減價 #大減價 #優惠 #discount #promotion",
       "post_url": "https://facebook.com/groups/1011675959766407/permalink/1836955320571796/",
@@ -7836,54 +7836,6 @@
       "source_key": "threads-search",
       "source_name": "Threads @bellayynana",
       "store": "AlipayHK"
-    },
-    {
-      "category": "零售",
-      "detail": "啟德SOGO 7樓康寧；有SOGO Rewards可攞$100現金券再減$100",
-      "ends_at": null,
-      "id": 66,
-      "is_ad": false,
-      "is_new": false,
-      "item": "康寧12件餐具",
-      "post_text": null,
-      "post_url": "https://facebook.com/groups/1011675959766407/permalink/1823987865201875/",
-      "posted_at": "2026-11-07T12:46:43.000Z",
-      "price_text": "$1088",
-      "source_key": "1011675959766407",
-      "source_name": "減價優惠情報組 JetsoSuper",
-      "store": "SOGO（啟德）"
-    },
-    {
-      "category": "食肆",
-      "detail": "Threads 用戶實地報料，2026-11-07 帖",
-      "ends_at": null,
-      "id": 84,
-      "is_ad": false,
-      "is_new": false,
-      "item": "18:00 後所有食品半價（只限外賣、雪糕除外）；士多啤梨忌廉蛋糕",
-      "post_text": null,
-      "post_url": "https://www.threads.com/@choupettech/post/DfcITf3kw17",
-      "posted_at": "2026-11-07T11:59:13.000Z",
-      "price_text": "半價：蛋糕 $119（原價 $238）",
-      "source_key": "threads-search",
-      "source_name": "Threads @choupettech",
-      "store": "九龍酒店咖啡閣"
-    },
-    {
-      "category": "超市",
-      "detail": "趁今日77折買兩盒",
-      "ends_at": null,
-      "id": 18,
-      "is_ad": false,
-      "is_new": false,
-      "item": "夏威夷果仁伯爵茶味產品",
-      "post_text": null,
-      "post_url": "https://facebook.com/groups/369987237960476/permalink/1449709939988195/",
-      "posted_at": "2026-11-07T11:09:46.000Z",
-      "price_text": "77折",
-      "source_key": "369987237960476",
-      "source_name": "超市關注組",
-      "store": "7-Eleven"
     }
   ]
 }
