@@ -1,17 +1,17 @@
 {
-  "totalLive": 498,
+  "totalLive": 492,
   "categoryCounts": {
     "其他": 89,
-    "網購": 28,
-    "超市": 163,
-    "零售": 121,
-    "食肆": 97
+    "網購": 27,
+    "超市": 162,
+    "零售": 118,
+    "食肆": 96
   },
   "bestDiscountPct": 90,
   "todayNew": 1,
   "sourceTotal": 15,
   "lastUpdatedAt": "2026-11-21T11:05:06.437Z",
-  "syncedAt": "2026-11-21T21:05:22+08:00",
+  "syncedAt": "2026-11-22T01:02:06+08:00",
   "deals": [
     {
       "category": "零售",
@@ -191,38 +191,6 @@
     },
     {
       "category": "零售",
-      "detail": "新款6折，可2 way著；韓國直送，順豐到付",
-      "ends_at": "2026-11-21",
-      "id": 1337,
-      "is_ad": true,
-      "is_new": false,
-      "item": "VICE POINTED BOOTS",
-      "post_text": "📍原價$15xx → 減價$725 ˚⋆｡♡˚\n💕優惠到今日🌸\n\n🫯Aespa既Karina都有著Khiho🌪️\n新款6折💯可以2 way著😍\n1個價錢2個著法\nKhiho🏷️ VICE POINTED BOOTS✨\n\n🎨顏色選擇：Black/Charcoal🫧\n🖇️Size：230-250✔️有半碼\n\n📦順豐到付，韓國直送，放心入手！\n\n‪·͜· ❤︎📥‬入group 睇實新貨→ https://chat.whatsapp.com/BowCBKmzlq1I8f3PMAobTS?mode\n\n✌🏻 ̖́-🩷直接落單搵→ https://wa.me/85261352605\n\n🌱Fanpage更新一樣快✨https://www.facebook.com/share/1KDMRhw2Ez/?mibextid\n\n#韓國代購 #韓系穿撘  #限時減價 #韓國直送",
-      "post_url": "https://www.threads.com/@xshopping_dayx/post/Df_nB4cnfHE",
-      "posted_at": "2026-11-21T06:41:07.000Z",
-      "price_text": "減價$725（原價$15xx）",
-      "source_key": "threads-search",
-      "source_name": "Threads @xshopping_dayx",
-      "store": "Khiho"
-    },
-    {
-      "category": "網購",
-      "detail": null,
-      "ends_at": "2026-11-21",
-      "id": 1338,
-      "is_ad": false,
-      "is_new": false,
-      "item": "Starbucks膠囊",
-      "post_text": "有冇人都飲開Starbucks膠囊？\n好黐線，@hktvmall 買三件減$85！今日仲有八五折😎\n我入咗貨啦 ▓",
-      "post_url": "https://www.threads.com/@zizi.munchkincat/post/Df_m1o5kqX8",
-      "posted_at": "2026-11-21T06:39:26.000Z",
-      "price_text": "買三件減$85，今日仲有八五折",
-      "source_key": "threads-search",
-      "source_name": "Threads @zizi.munchkincat",
-      "store": "HKTVmall"
-    },
-    {
-      "category": "零售",
       "detail": "最後2天",
       "ends_at": null,
       "id": 1334,
@@ -268,22 +236,6 @@
       "source_key": "threads-search",
       "source_name": "Threads @hechter_kaitak",
       "store": "HECHTER"
-    },
-    {
-      "category": "超市",
-      "detail": "香港仔百佳，今日快閃活動",
-      "ends_at": "2026-11-21",
-      "id": 1328,
-      "is_ad": false,
-      "is_new": false,
-      "item": "蟹",
-      "post_text": "今日又可以食蟹啦~香港仔百佳，今日有快閃活動~128/2隻~",
-      "post_url": null,
-      "posted_at": "2026-11-21T05:01:15.000Z",
-      "price_text": "$128/2隻",
-      "source_key": "threads-search",
-      "source_name": "Threads @helentan123_",
-      "store": "百佳"
     },
     {
       "category": "超市",
@@ -542,22 +494,6 @@
       "store": "UNIQLO"
     },
     {
-      "category": "零售",
-      "detail": "油麻地Baleno，最後一天",
-      "ends_at": "2026-11-21",
-      "id": 1323,
-      "is_ad": false,
-      "is_new": false,
-      "item": "Tee（香港都市傳說系列）",
-      "post_text": "喺油麻地baleno發現咗幾件正Tee\n個print真係做得幾唔錯 內容抵死！\n仲要$59/件(最後一天) ！！！ \n勁抵\n\n上網睇原來之前出咗香港都市傳說系列\n好鬼正！￼",
-      "post_url": "https://www.threads.com/@puiyuho_/post/Df_DdqujLEB",
-      "posted_at": "2026-11-21T01:30:20.000Z",
-      "price_text": "$59/件",
-      "source_key": "threads-search",
-      "source_name": "Threads @puiyuho_",
-      "store": "Baleno"
-    },
-    {
       "category": "其他",
       "detail": "尖沙咀、太子、將軍澳、屯門有站；去HopeGoo App搜尋【szto】",
       "ends_at": null,
@@ -572,22 +508,6 @@
       "source_key": "threads-search",
       "source_name": "Threads @mayszakai254",
       "store": "環島中港通"
-    },
-    {
-      "category": "零售",
-      "detail": "油麻地分店，最後一天",
-      "ends_at": "2026-11-21",
-      "id": 1307,
-      "is_ad": false,
-      "is_new": false,
-      "item": "T恤（香港都市傳說系列）",
-      "post_text": "喺油麻地baleno發現咗幾件正Tee\n個print真係做得幾唔錯 內容抵死！\n仲要$59/件(最後一天) ！！！ \n勁抵\n\n上網睇原來之前出咗香港都市傳說系列\n好鬼正！￼",
-      "post_url": null,
-      "posted_at": "2026-11-21T01:00:43.000Z",
-      "price_text": "$59/件",
-      "source_key": "threads-search",
-      "source_name": "Threads @siumai_and_miu",
-      "store": "Baleno"
     },
     {
       "category": "食肆",
@@ -3084,22 +3004,6 @@
       "source_key": "threads-search",
       "source_name": "Threads @familykidcat",
       "store": "香港迪士尼樂園"
-    },
-    {
-      "category": "食肆",
-      "detail": "麥當勞APP優惠碼兌換專區輸入；數量有限；11/18~11/24 APP週年慶另有中薯、薯餅、OREO冰炫風買一送一等10張券",
-      "ends_at": "2026-11-21",
-      "id": 937,
-      "is_ad": false,
-      "is_new": false,
-      "item": "10塊麥克雞塊買一送一券（優惠碼DONE0828）",
-      "post_text": "目前公開查得到的隱藏碼就只有這組：DONE0828，在麥當勞APP首頁的優惠碼兌換專區輸入，就能領到10塊麥克雞塊買一送一券，期限到11/21、數量有限領完為止。\n\n類似的限量兌換都是走APP優惠券形式，不是另外的代碼，像現在11/18~11/24的APP週年慶就有中薯、薯餅、OREO冰炫風買一送一、超值全餐送4塊雞塊、歡樂送滿300送6塊雞塊等10張券，建議直接開APP把券先領起來比較保險。",
-      "post_url": null,
-      "posted_at": "2026-11-18T19:01:56.000Z",
-      "price_text": "買一送一（優惠碼：DONE0828）",
-      "source_key": "threads-search",
-      "source_name": "Threads @meta.ai",
-      "store": "麥當勞"
     },
     {
       "category": "零售",
