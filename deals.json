@@ -8,10 +8,10 @@
     "食肆": 102
   },
   "bestDiscountPct": 90,
-  "todayNew": 1,
+  "todayNew": 0,
   "sourceTotal": 15,
-  "lastUpdatedAt": "2026-11-22T23:14:01.289Z",
-  "syncedAt": "2026-11-23T09:01:54+08:00",
+  "lastUpdatedAt": "2026-11-23T01:06:34.572Z",
+  "syncedAt": "2026-11-23T11:06:18+08:00",
   "deals": [
     {
       "category": "其他",
@@ -19,7 +19,7 @@
       "ends_at": null,
       "id": 1478,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "叫車（的士）",
       "post_text": "咩事😱係咪傻咗？？？\n同一條路，隔離 Uber 報價 $101，Alipay 竟然 $8 埋單 🤯\n差點以為自己睇錯小數點...\n\n入埋🏷️ 優惠碼「80GD」即減 $80 ❗️\n扣埋 A. Point 仲平過 2蚊，咁凍叫車最爽 🚕💨",
       "post_url": "https://www.threads.com/@ellisyee88/post/DgD77E_j957",
