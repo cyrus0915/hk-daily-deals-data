@@ -1,20 +1,84 @@
 {
   "bestDiscountPct": 90,
   "categoryCounts": {
-    "其他": 135,
+    "其他": 139,
     "網購": 49,
-    "超市": 184,
-    "零售": 176,
+    "超市": 185,
+    "零售": 177,
     "食肆": 149
   },
   "deals": [
+    {
+      "category": "其他",
+      "detail": "經Trip落單，日曆日計費",
+      "ends_at": null,
+      "id": 2030,
+      "is_ad": true,
+      "is_new": true,
+      "item": "日本原生5G eSIM（每日100GB數據）",
+      "post_text": "📶 編輯喺 Trip 搵到日本電訊三大網絡之一 au KDDI 出嘅原生 5G eSIM，用嚟睇 TikTok 同用 AI app 都冇問題，每日 100GB 數據夠晒用 🇯🇵！日曆日計費，去幾日買幾日唔浪費。低至 HK$26.98 起（實際套餐價錢以落單頁為準）。用返我哋留言區指定連結入去，再輸入獨家優惠碼 TRAVELERHK26T，仲可以折上折額外減多 5% 💰",
+      "post_url": null,
+      "posted_at": "2026-11-26T20:45:14.000Z",
+      "price_text": "低至HK$26.98起，優惠碼TRAVELERHK26T額外減5%",
+      "source_key": "threads-search",
+      "source_name": "Threads @hktravelgo",
+      "store": "au KDDI"
+    },
+    {
+      "category": "其他",
+      "detail": "中環店，需預約，IG DM",
+      "ends_at": null,
+      "id": 2031,
+      "is_ad": true,
+      "is_new": true,
+      "item": "AI皮膚分析",
+      "post_text": "雖然未必係你地點範圍之內，但係想話俾你知你可以預約過嚟做AI皮膚分析，免費，不需要付款。希望你可以知道自己皮膚實際狀況再搜羅屋企附近嘅店舖光顧！\n\nIG DM 見✨⭐️",
+      "post_url": null,
+      "posted_at": "2026-11-26T20:39:15.000Z",
+      "price_text": "免費",
+      "source_key": "threads-search",
+      "source_name": "Threads @soulyoung.central",
+      "store": "SoulYoung"
+    },
+    {
+      "category": "其他",
+      "detail": "新客限定（未喺香港用高德Call過車），優惠券領取後7日內有效，經高德App或AlipayHK兌換，code：CY801",
+      "ends_at": null,
+      "id": 2032,
+      "is_ad": false,
+      "is_new": true,
+      "item": "新客$150搭車券包（首單1折，最高減$80）",
+      "post_text": "☁️ 最近同幾個朋友傾開，發現大家講起高德打車都係同一個反應——唔係講笑，佢今次真係燒錢搶市場。🔥\n\n條件其實好簡單：只要你係新客，即係未喺香港用高德Call過車，無論你係+852定+86號碼，一律派$150搭車券包。當中最實用嗰張係首單無門檻1折，最高減$80。💰\n\n我哋幾個計過條數：新界出九龍都係幾蚊雞，Call車隨時平過搭地鐵🚇。呢個先係重點——唔係平少少，係平到你要重新諗下點解仲要逼地鐵。\n\n點拎都好直接：打開高德App或者AlipayHK，搜「高德打車」，入去打車優惠兌換，再輸入隱藏🏷️code：【CY801】就得。\n\n⚠️ 但要提提你：優惠券領取後7日內有效，記得計好時間先去換。\n\n我嘅判斷係，呢種補貼力度唔會維持太耐，趁而家仲有得拎，值得開個App睇睇。",
+      "post_url": null,
+      "posted_at": "2026-11-26T20:28:32.000Z",
+      "price_text": "$150搭車券包，首單1折最高減$80",
+      "source_key": "threads-search",
+      "source_name": "Threads @amelie44311",
+      "store": "高德打車"
+    },
+    {
+      "category": "其他",
+      "detail": "電子票二維碼直接入閘，即買即用，可隨時退；新客用1000WED仲抵",
+      "ends_at": null,
+      "id": 2033,
+      "is_ad": false,
+      "is_new": true,
+      "item": "機場快綫電子車票",
+      "post_text": "出發去機場嗰程，我諗緊搭機場快綫定的士好😅\n官方直簽機場快綫電子車票，原價 $80 起，而家65折 $52 起\n電子票二維碼直接入閘，即買即用，仲可以隨時退\n新客用 1000WED 仲抵，慳返嗰程車錢去買手信",
+      "post_url": null,
+      "posted_at": "2026-11-26T19:10:15.000Z",
+      "price_text": "65折 $52起（原價$80起）",
+      "source_key": "threads-search",
+      "source_name": "Threads @hkfunbuyfly",
+      "store": "機場快綫"
+    },
     {
       "category": "食肆",
       "detail": "旺角彌敦道575號6樓／牛頭角偉業街93號20樓；星期一至日12:00-23:30",
       "ends_at": null,
       "id": 2019,
       "is_ad": true,
-      "is_new": true,
+      "is_new": false,
       "item": "龍蝦鮑魚生蠔海鮮蒸汽鍋套餐（10款美食）",
       "post_text": "各位！人生有幾多個10年呢？想食平靚正海鮮，呢度一定要過嚟食一次！你千祈唔好錯過！平到你到你唔信！旺角.觀塘原味小聚做緊店慶超級優惠，買一送一居然低至99蚊，可以食到生猛厚肉龍蝦、鮑魚、生蠔海鮮蒸汽鍋共10款美食大餐，你唔係會錯過呀？\n\n原味小聚周年店慶超級優惠大活動\n新鮮龍蝦鮑魚生蠔海鮮蒸汽鍋套餐\n買一送一低至$99蚊就食到啦！\n\n星期一至日中午12:00至晚上11:30供應\n\n牛頭角偉業街93號20樓\n訂座WhatsApp電話：53926277\n\n旺角彌敦道575號6樓\n訂座WhatsApp電話：63237755\n\n#同城推薦 #原味小聚 #海鮮 #香港美食 #蒸汽火鍋 龍蝦 鮑魚 生蠔 打卡 香港打卡 香港好去處",
       "post_url": "https://www.threads.com/@original.gathering_hk/post/DgNwHBOHJp_",
@@ -153,6 +217,22 @@
       "store": "759阿信屋"
     },
     {
+      "category": "超市",
+      "detail": "由今日至11月29日",
+      "ends_at": "2026-11-29",
+      "id": 2034,
+      "is_ad": false,
+      "is_new": true,
+      "item": "急凍產品（肥牛片、餃子等）",
+      "post_text": "雪櫃又空咗，本來想去惠康，見到759話會員買急凍滿$18再9折。\n\n759阿信屋由今日至29號，會員限定買急凍產品滿$18，全單急凍再9折。Jetso Club報。\n\n建議：買肥牛片同餃子一齊夾，滿額先有折，唔好淨買一件。\n\n認同請留言：你會買咩急凍？\n\nhttps://www.jetsoclub.com/2026/11/759-118-926-2911.html",
+      "post_url": null,
+      "posted_at": "2026-11-26T13:24:46.000Z",
+      "price_text": "滿$18再9折（會員限定）",
+      "source_key": "threads-search",
+      "source_name": "Threads @ipalmond",
+      "store": "759阿信屋"
+    },
+    {
       "category": "其他",
       "detail": "香港人限定，旺淡季都得",
       "ends_at": null,
@@ -231,6 +311,22 @@
       "source_key": "threads-search",
       "source_name": "Threads @zero_tsang",
       "store": "IKEA K11"
+    },
+    {
+      "category": "零售",
+      "detail": "K11分店減價清貨",
+      "ends_at": null,
+      "id": 2035,
+      "is_ad": false,
+      "is_new": true,
+      "item": "玻璃碗、香薰乾花",
+      "post_text": "💥香港地仲有冇嘢係$1？有！宜家玩到咁大😱💥\n\nK11宜家減價清貨，竟然玩到$1一件！！\n大過塊面嘅玻璃碗、香薰乾花，通通一蚊雞！\n原價$29.9同$9.9，依家$1係咩概念？仲平過搭一程輕鐵！😂\n真係平到有啲誇張，見到個價錢牌以為自己發緊夢。\n有冇人知其他分店有冇？定係得K11先咁癲？\n\n#宜家 #IKEA #香港好去處 #著數 #1蚊",
+      "post_url": null,
+      "posted_at": "2026-11-26T11:58:05.000Z",
+      "price_text": "$1（原價$29.9／$9.9）",
+      "source_key": "threads-search",
+      "source_name": "Threads @zero_tsang",
+      "store": "IKEA"
     },
     {
       "category": "其他",
@@ -11097,9 +11193,9 @@
       "store": "小見香格里拉"
     }
   ],
-  "lastUpdatedAt": "2026-11-26T19:13:14.588Z",
+  "lastUpdatedAt": "2026-11-26T21:10:38.247Z",
   "sourceTotal": 15,
-  "syncedAt": "2026-11-27T05:12:17+08:00",
-  "todayNew": 1,
-  "totalLive": 693
+  "syncedAt": "2026-11-27T07:06:10+08:00",
+  "todayNew": 6,
+  "totalLive": 699
 }
