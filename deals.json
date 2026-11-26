@@ -3,18 +3,50 @@
   "categoryCounts": {
     "其他": 127,
     "網購": 48,
-    "超市": 186,
-    "零售": 164,
-    "食肆": 137
+    "超市": 187,
+    "零售": 165,
+    "食肆": 139
   },
   "deals": [
+    {
+      "category": "食肆",
+      "detail": "12月24/25/31日加送生蠔三隻",
+      "ends_at": "2026-12-31",
+      "id": 1863,
+      "is_ad": false,
+      "is_new": true,
+      "item": "節慶自助晚餐",
+      "post_text": "🔥 即日起開放預訂，優惠去到 12 月 31 日\n\n香港文華東方酒店｜快船廊\n節慶自助晚餐低至 85 折 🦞\n\n波士頓龍蝦、阿拉斯加帝王蟹腳、大連鮑魚，仲有傳統香烤火雞同龍蝦濃湯，12 月 24/25/31 日仲加送生蠔三隻！\n\n四位起每位 $654（原價 $757）\n\n香港自助餐 #自助餐優惠 #中環",
+      "post_url": null,
+      "posted_at": "2026-11-25T23:05:37.000Z",
+      "price_text": "四位起每位$654（原價$757），低至85折",
+      "source_key": "threads-search",
+      "source_name": "Threads @jetsohubhk",
+      "store": "香港文華東方酒店（快船廊）"
+    },
+    {
+      "category": "食肆",
+      "detail": "波士頓龍蝦、阿拉斯加帝王蟹腳、傳統香烤火雞",
+      "ends_at": "2026-12-31",
+      "id": 1864,
+      "is_ad": false,
+      "is_new": true,
+      "item": "節慶自助晚餐／半自助午餐",
+      "post_text": "文華東方酒店快船廊節日自助餐，四位起就有平\n自助晚餐每位$654（原價$757），半自助午餐每位$625（原價$724）\n波士頓龍蝦、阿拉斯加帝王蟹腳、傳統香烤火雞全部有齊\n適用日期到12月31日，想食聖誕大餐就快手約埋朋友 🎄\n香港自助餐 #自助餐優惠 #抵食 #中環 #文華東方酒店",
+      "post_url": null,
+      "posted_at": "2026-11-25T22:00:35.000Z",
+      "price_text": "自助晚餐每位$654（原價$757）；半自助午餐每位$625（原價$724）",
+      "source_key": "threads-search",
+      "source_name": "Threads @hktraveljetso",
+      "store": "香港文華東方酒店（快船廊）"
+    },
     {
       "category": "食肆",
       "detail": "PayMe優惠碼PM26NOV40滿$888減$40；4–11歲小童價、60歲以上長者優惠",
       "ends_at": "2026-12-30",
       "id": 1856,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "12月節日歡騰海鮮自助晚餐",
       "post_text": "🦞 黃埔海逸君綽酒店 The Promenade 12 月節日歡騰海鮮自助晚餐，龍蝦海鮮喇沙、薑蔥炒鮮龍蝦、蟹肉蟹粉炒飯仲有傳統烤釀火雞，一次食晒 🔥\n即日起開放預訂，低至 56 折晚市自助餐 HK$652（原價 HK$834），用到 12 月 30 日\n👶 4–11 歲小童設小童價，60 歲以上長者出示證件都有優惠，一家大細去啱晒\n💰 用 PayMe 畀錢，入優惠碼 PM26NOV40 滿 HK$888 減 HK$40（滿 HK$999 仲有 PM26NOV70 減 HK$70）\n親子餐廳 #香港美食 #小朋友食乜好 #黃埔 #海逸君綽酒店",
       "post_url": "https://www.threads.com/@familykidcat/post/DgLbfWnjIS5",
@@ -30,7 +62,7 @@
       "ends_at": "2026-12-30",
       "id": 1855,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "自助晚餐",
       "post_text": "JW萬豪酒店 JW咖啡室自助晚餐，兩位起就有低至9折\n而家$988就食到（原價$1087），龍蝦海蝦任食仲有即席切肉\n適用日期到12月30日，想食就快啲入手 😋\n香港自助餐 #自助餐優惠 #抵食 #金鐘 #JW萬豪酒店",
       "post_url": "https://www.threads.com/@hktraveljetso/post/DgLa1SFDKmL",
@@ -46,7 +78,7 @@
       "ends_at": "2026-12-17",
       "id": 1854,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "自助餐買二送一（晚餐／午餐）",
       "post_text": "九龍香格里拉 Cafe Kool 自助餐買二送一，而家就可以搶\n自助晚餐3位食$1999，人均$666.3（原價$2868）\n自助午餐3位食$1148，人均$382.7（原價$1647）\n適用日期到12月17日，想同朋友屋企人一齊食就快啲訂 🍽️\n香港自助餐 #自助餐優惠 #抵食 #尖沙咀 #九龍香格里拉",
       "post_url": "https://www.threads.com/@hktraveljetso/post/DgLSP6pjLtK",
@@ -110,7 +142,7 @@
       "ends_at": null,
       "id": 1857,
       "is_ad": true,
-      "is_new": true,
+      "is_new": false,
       "item": "男童超值福袋（4件組：防風外套、上衣×2、運動長褲）",
       "post_text": "日本直送\n福袋系列\n\n🔥 FILA 男童超值福袋｜限量開搶！ 🔥\n\n日本🇯🇵FILA 男童超值福袋\n超值嘅男童套裝\n小編見到香港都買緊$44x\n做個優惠價俾大家買兩套低至$3xx\n🛒 https://4ccakehouse.online/i/Q0eO5HgAA\n\nFILA福袋兒童 男孩 140cm-160cm\n一年一度又到日本福袋大減價嘅日子今次為大家帶嚟FILA嘅童裝福袋非常抵着\n一套裏面包2件衫/外套/仲有一條褲\n非常之抵着\n\n🔥 FILA 男童超值福袋｜限量開搶！ 🔥\n\n家長們看過來 👀 幫小朋友換新裝一次搞定，超划算 FILA 男童福袋帥氣登場啦！✨ \n\n✨ 福袋超值內容（共 4 件組）：\n🧥 防風立領外套 ×1（深藍款式） \n👕 潮流長袖上衣 / 衛衣 ×2 \n👖 百搭束口運動長褲 ×1（黑色款式） \n🛍️ （附贈：FILA 品牌專屬手提購物袋） \n\n🎨 三款組合：\n\n💙 A. 藍黑\n🩵 淺藍「FILA 11」美式長袖上衣 🖤 暗夜黑「FILA ITALIA」經典衛衣 \n🧥 深藍防風立領外套 \n👖 黑色 FILA 字母束口運動長褲 \n\n💚 B. 軍綠",
       "post_url": "https://www.threads.com/@4ccakehousegroupbuy/post/DgLEDwbkyLS",
@@ -279,6 +311,22 @@
       "source_key": "2808948529353315",
       "source_name": "香港兩餸飯關注組",
       "store": "元朗地道小廚"
+    },
+    {
+      "category": "超市",
+      "detail": "買2件88折；買滿額送贈品",
+      "ends_at": null,
+      "id": 1865,
+      "is_ad": false,
+      "is_new": true,
+      "item": "佳能密實袋／高樂氏保鮮魔術貼",
+      "post_text": "買水果快過食水果 唯有保鮮做足啲 😂​\n平時用佳能密實袋裝橙同檸檬 整齊又易拎​\n切開食唔晒，就靠佳能保鮮魔術貼！​\n​\n比一般保鮮紙更堅挺密封​\n減少水份流失 Keep住新鮮 唔會嘥！​\n​\n今次惠康優惠​\n佳能／高樂氏買 2 件 88 折​\n買滿額仲送洗衣珠同 Tempo卷紙​\n贈品全部都好實用 唔使諗用唔用得着​\n只需諗點拎返屋企 😂​",
+      "post_url": null,
+      "posted_at": "2026-11-25T13:28:46.000Z",
+      "price_text": "買2件88折，買滿額送洗衣珠同Tempo卷紙",
+      "source_key": "threads-search",
+      "source_name": "Threads @kwc.kwok_",
+      "store": "惠康"
     },
     {
       "category": "食肆",
@@ -583,6 +631,22 @@
       "source_key": "threads-search",
       "source_name": "Threads @lovelykawaii_missmeow",
       "store": "八達通"
+    },
+    {
+      "category": "零售",
+      "detail": "買滿$199送贈品",
+      "ends_at": null,
+      "id": 1861,
+      "is_ad": false,
+      "is_new": true,
+      "item": "烘乾機",
+      "post_text": "買滿 $199  今期送烘乾機 潮濕天氣好好用\n仲有送 Axe 洗潔精 tempo紙巾 Zero天然洗潔精\n\n Watson",
+      "post_url": "https://facebook.com/groups/369987237960476/permalink/1466668578292331/",
+      "posted_at": "2026-11-25T09:09:43.000Z",
+      "price_text": "買滿$199送烘乾機，另送Axe洗潔精、Tempo紙巾、Zero天然洗潔精",
+      "source_key": "369987237960476",
+      "source_name": "超市關注組",
+      "store": "屈臣氏"
     },
     {
       "category": "超市",
@@ -1166,7 +1230,7 @@
       "ends_at": null,
       "id": 1853,
       "is_ad": false,
-      "is_new": true,
+      "is_new": false,
       "item": "GP超霸特強鹼性電芯22粒裝",
       "post_text": "【惠康著數】GP 超霸電芯大減價！平均兩蚊幾一粒仲送文具？🔋🖊️\n完整內文：\n屋企成日要換電芯嘅朋友注意！啱啱行過惠康見到 GP 超霸特強鹼性電芯做緊優惠：\n✅ 買 22 粒裝只要 $50（計返開先 $2.27 一粒，好抵囤！）\n✅ 買一盒 GP 3A 電池仲直接送一支六色筆！\n枝六色筆好實用，平時返工、溫書或者畀小朋友畫畫都用得著，買電芯順便有文具收，今次真係好正！趁仲有貨大家快啲去睇下～大家平時買開幾錢？\n#惠康優惠 #GP超霸 #特強鹼性電芯 #香港著數 #精明消費 #超市優惠 #文具控 #家庭日常＃",
       "post_url": "https://www.threads.com/@joyce119988/post/DgJdFvmFHgZ",
@@ -10601,9 +10665,9 @@
       "store": "養之髮"
     }
   ],
-  "lastUpdatedAt": "2026-11-25T21:17:15.547Z",
+  "lastUpdatedAt": "2026-11-25T23:15:14.356Z",
   "sourceTotal": 15,
-  "syncedAt": "2026-11-26T07:04:09+08:00",
-  "todayNew": 5,
-  "totalLive": 662
+  "syncedAt": "2026-11-26T09:03:24+08:00",
+  "todayNew": 4,
+  "totalLive": 666
 }
